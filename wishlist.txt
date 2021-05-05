@@ -1,3 +1,7 @@
+// Arsenic Bite-4b
+//notes: Lets see if this works...
+dimwishlist:item=720351795&perks=1196733167,3429800428,3425386926,3365897133
+
 // Seventh Seraph Officer Revolver
 //notes: (PvP): Look for pushing out the range as much as possible, preferably without penalizing any other stat - Masterwork: range
 dimwishlist:item=3037520408&perks=3250034553,3142289711,4071163871,2779035018
