@@ -1,3 +1,7 @@
+// Far Future
+//notes: (PvP): Looking out for a roll like this in pvp, I can't snipe for much but boy do I love to pretend I can - Masterwork: range or handling likely.
+dimwishlist:item=893527433&perks=3250034553,3142289711,3436462433
+
 // True Prophecy
 //PvP perferred rolls-------------------------------------------------------
 //notes: (PvP): Hello there, these are notes and whatnot
