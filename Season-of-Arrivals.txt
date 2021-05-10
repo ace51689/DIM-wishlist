@@ -1,4 +1,19 @@
 ------------------------------------------------------------Season of Arrivals (S11)------------------------------------------------------------
+// The Forward Path
+//notes: (PvE): Just a run of the mill AR as far as pve activities go. Masterwork: Stability or Range
+dimwishlist:item=1690783811&perks=3230963543,2779035018,4082225868
+dimwishlist:item=1690783811&perks=3230963543,2779035018,2458213969
+dimwishlist:item=1690783811&perks=3230963543,1354429876,4082225868
+dimwishlist:item=1690783811&perks=3230963543,1354429876,2458213969
+dimwishlist:item=1690783811&perks=106909392,2779035018,4082225868
+dimwishlist:item=1690783811&perks=106909392,2779035018,2458213969
+dimwishlist:item=1690783811&perks=106909392,1354429876,4082225868
+dimwishlist:item=1690783811&perks=106909392,1354429876,2458213969
+dimwishlist:item=1690783811&perks=3142289711,2779035018,4082225868
+dimwishlist:item=1690783811&perks=3142289711,2779035018,2458213969
+dimwishlist:item=1690783811&perks=3142289711,1354429876,4082225868
+dimwishlist:item=1690783811&perks=3142289711,1354429876,2458213969
+
 // The Fool's Remedy
 //notes: (PvE): Probably not a top tier pve sidearm, but these days, what is? Masterwork: Range
 dimwishlist:item=65611680&perks=445755704,1885400500,1820235745,1015611457
