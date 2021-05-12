@@ -130,11 +130,11 @@ dimwishlist:item=211938782&perks=852209214,3827198035,706527188
 dimwishlist:item=211938782&perks=852209214,3827198035,280464955
 dimwishlist:item=211938782&perks=852209214,3827198035,201365942
 dimwishlist:item=211938782&perks=852209214,3827198035,2450788523
-//notes: (??? junk ???)
-dimwishlist:item=-211938782&perks=3108830275
-dimwishlist:item=-211938782&perks=1866048759
-dimwishlist:item=-211938782&perks=2154191829
-dimwishlist:item=-211938782&perks=1500996326
+//Junk------------------------------------------------------------------
+dimwishlist:item=-211938782&perks=3108830275#notes:|tags:junk
+dimwishlist:item=-211938782&perks=1866048759#notes:|tags:junk
+dimwishlist:item=-211938782&perks=2154191829#notes:|tags:junk
+dimwishlist:item=-211938782&perks=1500996326#notes:|tags:junk
 
 //Lonesome
 //Preferred Rolls----------------------------------------------------------------
