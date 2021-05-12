@@ -508,7 +508,7 @@ dimwishlist:item=607191995&perks=1482024992,3868766766,2039302152
 dimwishlist:item=607191995&perks=1482024992,3868766766,706527188
 dimwishlist:item=607191995&perks=1482024992,3868766766,1645158859
 dimwishlist:item=607191995&perks=1482024992,3868766766,2450788523
-//Junk------------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-607191995&perks=689005463
 dimwishlist:item=-607191995&perks=202670084
 
@@ -643,7 +643,7 @@ dimwishlist:item=211938782&perks=852209214,3827198035,706527188
 dimwishlist:item=211938782&perks=852209214,3827198035,280464955
 dimwishlist:item=211938782&perks=852209214,3827198035,201365942
 dimwishlist:item=211938782&perks=852209214,3827198035,2450788523
-//Junk-----------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-211938782&perks=3108830275#notes:|tags:junk
 dimwishlist:item=-211938782&perks=1866048759#notes:|tags:junk
 dimwishlist:item=-211938782&perks=2154191829#notes:|tags:junk
@@ -937,7 +937,7 @@ dimwishlist:item=3745990145&perks=893526892,280464955,588594999
 dimwishlist:item=3745990145&perks=893526893,280464955,588594999
 dimwishlist:item=3745990145&perks=3142289711,280464955,588594999
 dimwishlist:item=3745990145&perks=3177308360,280464955,588594999
-//Junk Rolls---------------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-3745990145&perks=4071163871
 dimwishlist:item=-3745990145&perks=1866048759
 dimwishlist:item=-3745990145&perks=2010801679
@@ -1146,7 +1146,7 @@ dimwishlist:item=3504336176&perks=247725512,2458213969
 dimwishlist:item=3504336176&perks=247725512,3425386926
 dimwishlist:item=3504336176&perks=1168162263,2458213969
 dimwishlist:item=3504336176&perks=1168162263,3425386926
-//Junk Rolls---------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-3504336176&perks=1840239774
 dimwishlist:item=-3504336176&perks=1431678320
 dimwishlist:item=-3504336176&perks=1087426260
@@ -1432,7 +1432,7 @@ dimwishlist:item=3143732432&perks=1820235745,4082225868
 dimwishlist:item=3143732432&perks=1820235745,3425386926
 dimwishlist:item=3143732432&perks=1820235745,3708227201
 dimwishlist:item=3143732432&perks=1820235745,3108830275
-//Junk-----------------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-3143732432&perks=202670084
 dimwishlist:item=-3143732432&perks=1467527085
 dimwishlist:item=-3143732432&perks=839105230
@@ -2082,7 +2082,7 @@ dimwishlist:item=1946491241&perks=3809316345,409831596,3300816228
 dimwishlist:item=1946491241&perks=3809316345,409831596,2779035018
 dimwishlist:item=1946491241&perks=3809316345,2822142346,3300816228
 dimwishlist:item=1946491241&perks=3809316345,2822142346,2779035018
-//Junk----------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-1946491241&perks=205890336
 dimwishlist:item=-1946491241&perks=1631667848
 dimwishlist:item=-1946491241&perks=1716000303
@@ -2256,7 +2256,7 @@ dimwishlist:item=1835747805&perks=1926090090,3142289711,706527188
 dimwishlist:item=1835747805&perks=1926090093,3142289711,957782887
 dimwishlist:item=1835747805&perks=1926090093,3142289711,1866048759
 dimwishlist:item=1835747805&perks=1926090093,3142289711,706527188
-//Junk----------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-1835747805&perks=2213355989
 dimwishlist:item=-1835747805&perks=1645158859
 dimwishlist:item=-1835747805&perks=2420895100
@@ -2359,7 +2359,7 @@ dimwishlist:item=1690783811&perks=2405638014,3142289711,2779035018
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290
 dimwishlist:item=1690783811&perks=2405638014,3177308360,2779035018
 dimwishlist:item=1690783811&perks=2405638014,3177308360,1359896290
-//Junk------------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-1690783811&perks=4152709778
 dimwishlist:item=-1690783811&perks=1866048759
 dimwishlist:item=-1690783811&perks=2420895100,11551321
@@ -2631,7 +2631,7 @@ dimwishlist:item=65611680&perks=445755704,1885400500,1866048759
 //notes: (PvP): HEY YOU! If you happen to get this roll AND a Range Masterwork, try it out!
 dimwishlist:item=65611680&perks=445755710,1561002382,588594999,4152709778
 dimwishlist:item=65611680&perks=445755710,1885400500,588594999,4152709778
-//Junk-------------------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-65611680&perks=445755707,2420895100,4152709778
 dimwishlist:item=-65611680&perks=445755707,1431678320,4152709778
 dimwishlist:item=-65611680&perks=445755707,1087426260,4152709778
@@ -2754,7 +2754,7 @@ dimwishlist:item=1253087083&perks=3661387068,1140096971,2866798147
 dimwishlist:item=1253087083&perks=3661387068,1140096971,588594999
 dimwishlist:item=1253087083&perks=3661387068,3142289711,2866798147
 dimwishlist:item=1253087083&perks=3661387068,3142289711,588594999
-//Junk-----------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-1253087083&perks=2458213969
 dimwishlist:item=-1253087083&perks=1683379515
 dimwishlist:item=-1253087083&perks=2779035018
@@ -3286,7 +3286,7 @@ dimwishlist:item=2222560548&perks=1392496348,1140096971,1359896290
 dimwishlist:item=2222560548&perks=1392496348,3142289711,1359896290
 dimwishlist:item=2222560548&perks=1482024992,1140096971,1359896290
 dimwishlist:item=2222560548&perks=1482024992,3142289711,1359896290
-//Junk------------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-2222560548&perks=839105230
 dimwishlist:item=-2222560548&perks=1840239774
 dimwishlist:item=-2222560548&perks=2420895100
@@ -3357,7 +3357,7 @@ dimwishlist:item=3616586446&perks=1467527085,3142289711,3161816588
 dimwishlist:item=3616586446&perks=1467527085,3142289711,1866048759
 dimwishlist:item=3616586446&perks=4090651448,3142289711,3161816588
 dimwishlist:item=3616586446&perks=4090651448,3142289711,1866048759
-//Junk----------------------------------------------------------------
+//notes: Junk
 dimwishlist:item=-3616586446&perks=972757866
 dimwishlist:item=-3616586446&perks=1168162263
 dimwishlist:item=-3616586446&perks=3708227201
