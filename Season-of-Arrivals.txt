@@ -653,11 +653,11 @@ dimwishlist:item=2108920981&perks=2822142346,2869569095,3523296417
 dimwishlist:item=2108920981&perks=2822142346,972757866,3300816228
 dimwishlist:item=2108920981&perks=2822142346,972757866,3523296417
 //notes: Junk
-dimwishlist:item=2108920981&perks=3492396210
-dimwishlist:item=2108920981&perks=1716000303
-dimwishlist:item=2108920981&perks=3032599245
-dimwishlist:item=2108920981&perks=588594999
-dimwishlist:item=2108920981&perks=957782887
+dimwishlist:item=-2108920981&perks=3492396210
+dimwishlist:item=-2108920981&perks=1716000303
+dimwishlist:item=-2108920981&perks=3032599245
+dimwishlist:item=-2108920981&perks=588594999
+dimwishlist:item=-2108920981&perks=957782887
 
 // Last Perdition
 //notes: (PvP): Just looking at the perk pool you can tell this gun was made for pvp. Still, this archetype is not currently on top (S13). Masterwork: Choice
