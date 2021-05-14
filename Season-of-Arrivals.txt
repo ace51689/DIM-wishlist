@@ -422,9 +422,9 @@ dimwishlist:item=3745990145&perks=1431678320,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526895,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526892,247725512,3400784728
 //notes: Junk
-dimwishlist:item=3745990145&perks=893526894
-dimwishlist:item=3745990145&perks=4071163871
-dimwishlist:item=3745990145&perks=1866048759
+dimwishlist:item=-3745990145&perks=893526894
+dimwishlist:item=-3745990145&perks=4071163871
+dimwishlist:item=-3745990145&perks=1866048759
 
 // Wishbringer
 //notes: (PvP): There are certianly better shotguns out there than this. Masterwork: Range
@@ -598,10 +598,10 @@ dimwishlist:item=3356526253&perks=4090651448,679225683,4071163871
 dimwishlist:item=3356526253&perks=4090651448,679225683,972757866
 dimwishlist:item=3356526253&perks=4090651448,679225683,1631667848
 //notes: Junk
-dimwishlist:item=3356526253&perks=466087222
-dimwishlist:item=3356526253&perks=3177308360
-dimwishlist:item=3356526253&perks=2420895100
-dimwishlist:item=3356526253&perks=2869569095
+dimwishlist:item=-3356526253&perks=466087222
+dimwishlist:item=-3356526253&perks=3177308360
+dimwishlist:item=-3356526253&perks=2420895100
+dimwishlist:item=-3356526253&perks=2869569095
 
 // Crimil's Dagger
 //notes: (PvP): It's a 120, but not quite as good as Steady Hand or True Prophecy. Masterwork: Range
