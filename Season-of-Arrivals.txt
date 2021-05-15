@@ -2883,7 +2883,7 @@ dimwishlist:item=-3504336176&perks=2420895100
 dimwishlist:item=-3504336176&perks=4071163871
 
 // False Promises
-//notes: (PvP): I'm looking to push the range out as much as possible. Dynamic Sway/Zen Moment would help with stability/accuracy; Feeding Frenzy/Rampage or Swash would be great for constant pressure. Masterwork: Stability or Handling
+//notes: (PvP): I'm looking to push the stability out as much as possible. Dynamic Sway/Zen Moment would help with stability/accuracy; Feeding Frenzy/Rampage or Swash would be great for constant pressure. Masterwork: Stability or Handling
 dimwishlist:item=3143732432&perks=3661387068,1885400500,1359896290,3425386926
 dimwishlist:item=3143732432&perks=3661387068,1885400500,1359896290,699525795
 dimwishlist:item=3143732432&perks=3661387068,1885400500,1359896290,2387244414
