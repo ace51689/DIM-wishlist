@@ -1,4 +1,24 @@
-------------------------------------------------------------Season of Arrivals (S11)------------------------------------------------------------
+---------------------------------------------------------------------------Season of Arrivals (S11)---------------------------------------------------------------------------
+// Temptation's Hook
+//notes: (PvP): Swords in pvp are a mixed bag, Caster Frame Swords are the ones you want to use though. Masterwork: Impact.
+dimwishlist:item=35794111&perks=2827049491,269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=2827049491,269888150,2590710093,1685431615
+dimwishlist:item=35794111&perks=938542991,269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=938542991,269888150,2590710093,1685431615
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1685431615
+// Temptation's Hook
+//notes: (PvE): Jagged Edge for the most damage and Swordmaster's Guard for highest charge uptime. Masterwork: Impact
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,1546637391
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130
+//notes: Junk
+dimwishlist:item=-35794111&perks=436053704
+dimwishlist:item=-35794111&perks=1261178282
+dimwishlist:item=-35794111&perks=52780822
+dimwishlist:item=-35794111&perks=3625355092
+dimwishlist:item=-35794111&perks=2030760728
+dimwishlist:item=-35794111&perks=2244851822
+
 // Arsenic Bite-4b
 //notes: (PvP): Archer's Tempo is a MUST for pvp bows, column three has some solid passive perks, along with Rampage for added damage. Masterwork: Draw Time or Accuracy
 dimwishlist:item=720351795&perks=852209214,3429800428,588594999,201365942
