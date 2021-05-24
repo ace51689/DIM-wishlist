@@ -1,4 +1,34 @@
 ---------------------------------------------------------------------Beyond Light / Season of the Hunt (S12)---------------------------------------------------------------------
+// Commemoration
+//notes: (PvP): This is the God roll! Congrats you! You (got super lucky) did it! Masterwork: Stability or Handling
+dimwishlist:item=4230965989&perks=1840239774,3142289711,1359896290,3425386926
+//notes: (PvP): If you get this roll, give it a try in the Crucible
+dimwishlist:item=4230965989&perks=1840239774,3142289711,1359896290,1645158859
+dimwishlist:item=4230965989&perks=1840239774,3142289711,3436462433,1645158859
+dimwishlist:item=4230965989&perks=1840239774,106909392,1359896290,1645158859
+dimwishlist:item=4230965989&perks=1840239774,106909392,3436462433,1645158859
+dimwishlist:item=4230965989&perks=1840239774,3230963543,1359896290,1645158859
+dimwishlist:item=4230965989&perks=1840239774,3230963543,3436462433,1645158859
+dimwishlist:item=4230965989&perks=839105230,3142289711,1359896290,1645158859
+dimwishlist:item=4230965989&perks=839105230,3142289711,3436462433,1645158859
+dimwishlist:item=4230965989&perks=839105230,106909392,1359896290,1645158859
+dimwishlist:item=4230965989&perks=839105230,106909392,3436462433,1645158859
+dimwishlist:item=4230965989&perks=839105230,3230963543,1359896290,1645158859
+dimwishlist:item=4230965989&perks=839105230,3230963543,3436462433,1645158859
+// Commemoration
+//notes: (PvE): Reconstruction with Rampage make this an add mauling machine. Appended Mag/Tac Mag will bump up the mag and Reconstruction's potential. Masterwork: Handling or Range
+dimwishlist:item=4230965989&perks=1840239774,106909392,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3230963543,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1087426260,1523832109,3425386926
+//notes: Junk
+dimwishlist:item=-4230965989&perks=1467527085
+dimwishlist:item=-4230965989&perks=3661387068
+dimwishlist:item=-4230965989&perks=202670084
+dimwishlist:item=-4230965989&perks=2420895100
+dimwishlist:item=-4230965989&perks=1431678320
+dimwishlist:item=-4230965989&perks=3177308360
+dimwishlist:item=-4230965989&perks=2866798147
+
 // Trustee
 //notes: (PvP): Surplus with Opening Shot is what I'm after; look for Accurized plus Fluted/Arrowhead/Hammer-Forged. Masterwork: Range
 dimwishlist:item=1392919471&perks=1840239774,3142289711,3436462433,47981717
