@@ -1,4 +1,4 @@
----------------------------------------------------------------------------Season of The Chosen (S13)---------------------------------------------------------------------------
+--------------------------------------------------------------------------Season of The Chosen (S13)--------------------------------------------------------------------------
 // Extraordinary Rendition
 //notes: (PvP): Look for ways to bump up the Stability without bringing other stats down (Steady Rounds is okay). Tap the Trigger is a must for that added accuracy. Masterwork: Stability or Range
 dimwishlist:item=1097616550&perks=1392496348,3177308360,3436462433,1890422124
