@@ -1,3 +1,26 @@
+---------------------------------------------------------------------Beyond Light / Season of the Hunt (S12)---------------------------------------------------------------------
+// Trustee
+//notes: (PvP): Surplus with Opening Shot is what I'm after; look for Accurized plus Fluted/Arrowhead/Hammer-Forged. Masterwork: Range
+dimwishlist:item=1392919471&perks=1840239774,3142289711,3436462433,47981717
+dimwishlist:item=1392919471&perks=1840239774,3142289711,2387244414,47981717
+dimwishlist:item=1392919471&perks=839105230,3142289711,3436462433,47981717
+dimwishlist:item=1392919471&perks=839105230,3142289711,2387244414,47981717
+dimwishlist:item=1392919471&perks=3250034553,3142289711,3436462433,47981717
+dimwishlist:item=1392919471&perks=3250034553,3142289711,2387244414,47981717
+// Trustee
+//notes: (PvE): Reconstruction with Wellspring feels like what you want for pve. Tac Mag to take more advantage of Reconstruction, and Fluted to buff Handling. Masterwork: Range or Stability
+dimwishlist:item=1392919471&perks=1840239774,3230963543,1523832109,3592538738
+dimwishlist:item=1392919471&perks=1840239774,3230963543,3436462433,3592538738
+dimwishlist:item=1392919471&perks=1840239774,106909392,1523832109,3592538738
+dimwishlist:item=1392919471&perks=1840239774,106909392,3436462433,3592538738
+//notes: Junk
+dimwishlist:item=-1392919471&perks=3661387068
+dimwishlist:item=-1392919471&perks=1467527085
+dimwishlist:item=-1392919471&perks=202670084
+dimwishlist:item=-1392919471&perks=2420895100
+dimwishlist:item=-1392919471&perks=1431678320
+dimwishlist:item=-1392919471&perks=3201496230
+
 // Bonechiller
 //notes: (PvP): Probably not running this over Felwinter's as long as it's king. Surplus/Opening Shot is probably the roll. Masterwork: Range or Handling
 dimwishlist:item=4037745684&perks=1482024992,3142289711,3436462433,47981717
