@@ -436,7 +436,7 @@ dimwishlist:item=4281371574&perks=1482024992,3230963543,588594999,2551157718
 dimwishlist:item=4281371574&perks=1482024992,3230963543,3436462433,2551157718
 dimwishlist:item=4281371574&perks=1482024992,3230963543,247725512,2551157718
 dimwishlist:item=4281371574&perks=1482024992,3230963543,1570042021,2551157718
-//notes: (PvE): Firefly is the sentimental favorite, while One for All/Wellspring/Adrenaline Junkie could be interesting alternatives. Masterwork: Any
+//notes: (PvE): Firefly is the sentimental favorite, while One for All/Wellspring/Adrenaline could be interesting alternatives. Masterwork: Any
 dimwishlist:item=4281371574&perks=3250034553,106909392,1820235745,3824105627
 dimwishlist:item=4281371574&perks=3250034553,106909392,1820235745,3592538738
 dimwishlist:item=4281371574&perks=3250034553,106909392,247725512,3824105627
