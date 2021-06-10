@@ -1,4 +1,23 @@
 ------------------------------------------------------------Season of The Worthy (S10)------------------------------------------------------------
+// Interference VI
+//notes: (PvP): This just doesn't have a perk in column three for pvp. So This is probably a pass. Masterwork: Velocity or Blast Radius
+dimwishlist:item=2257180473&perks=981914802,1380253176,4082225868
+dimwishlist:item=2257180473&perks=981914802,1380253176,4071163871
+dimwishlist:item=2257180473&perks=3798852852,1380253176,4082225868
+dimwishlist:item=2257180473&perks=3798852852,1380253176,4071163871
+dimwishlist:item=2257180473&perks=3525010810,1380253176,4082225868
+dimwishlist:item=2257180473&perks=3525010810,1380253176,4071163871
+dimwishlist:item=2257180473&perks=1441682018,2822142346,4082225868
+dimwishlist:item=2257180473&perks=1441682018,2822142346,4071163871
+dimwishlist:item=2257180473&perks=1478423395,2822142346,4082225868
+dimwishlist:item=2257180473&perks=1478423395,2822142346,4071163871
+dimwishlist:item=2257180473&perks=3525010810,2822142346,4082225868
+dimwishlist:item=2257180473&perks=3525010810,2822142346,4071163871
+//notes: (PvE): Hard Launch - Spike - Auto-Loading/Clown Cartridge - Full Court. I've been after this for over a year now. Please RNGeezus, bless me. Masterwork: NOT Blast Radius
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110
+dimwishlist:item=2257180473&perks=981914802,3301904089,1631667848,2888557110
+
 // Seventh Seraph SAW
 //notes: (PvP): Machine Guns are hit and miss for me in pvp. I'm hoping that Bungie decides to buff them a bit in the future. Masterwork: Stability or Handling
 dimwishlist:item=2582755344&perks=839105230,1885400500,2387244414,47981717
