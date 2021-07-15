@@ -115,6 +115,13 @@ dimwishlist:item=304659313&perks=981914802,3032599245,3436462433,4104185692
 dimwishlist:item=304659313&perks=981914802,3032599245,3436462433,3523296417
 dimwishlist:item=304659313&perks=981914802,3032599245,3436462433,4049631843
 dimwishlist:item=304659313&perks=981914802,3301904089,706527188,3523296417
+//notes: Junk
+dimwishlist:item=-304659313&perks=3492396210
+dimwishlist:item=-304659313&perks=1716000303
+dimwishlist:item=-304659313&perks=3809316345
+dimwishlist:item=-304659313&perks=1844523823
+dimwishlist:item=-304659313&perks=1478423395
+dimwishlist:item=-304659313&perks=960810156
 
 // Shattered Cipher
 //notes: (PvP): Not sure this is super viable in pvp, opt for Accurized over mag boosting perks and either Range and/or Stability bumps in column one. Masterwork: Range or Stability
