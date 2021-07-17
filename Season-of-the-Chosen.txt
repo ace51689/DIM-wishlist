@@ -2544,22 +2544,10 @@ dimwishlist:item=-1097616550&perks=2458213969
 
 // Code Duello
 //notes: (PvP): Impulse Amplifier with Chain Reaction sounds like it could be an occasional annihilator in pvp. Masterwork: Velocity or Blast Radius
-dimwishlist:item=2496242052&perks=1441682018,2822142346,951095735,2396489472
 dimwishlist:item=2496242052&perks=981914802,2822142346,951095735,2396489472
-//notes: (PvE): I think the God roll here is Auto-Loading with Lasting Impression/Cluster Bomb. Masterwork: Velocity or Blast Radius
-dimwishlist:item=2496242052&perks=981914802,2985827016,951095735,3927722942
-dimwishlist:item=2496242052&perks=981914802,2985827016,951095735,1275731761
-dimwishlist:item=2496242052&perks=981914802,2985827016,3300816228,3927722942
-dimwishlist:item=2496242052&perks=981914802,2985827016,3300816228,1275731761
-dimwishlist:item=2496242052&perks=981914802,2985827016,2869569095,3927722942
-dimwishlist:item=2496242052&perks=981914802,2985827016,2869569095,1275731761
-dimwishlist:item=2496242052&perks=981914802,3796465595,951095735,3927722942
-dimwishlist:item=2496242052&perks=981914802,3796465595,951095735,1275731761
-dimwishlist:item=2496242052&perks=981914802,3796465595,3300816228,3927722942
+dimwishlist:item=2496242052&perks=3525010810,2822142346,951095735,2396489472
+//notes: (PvE): Since Hezen Vengeance can roll with Overflow I'm happy with Auto-Loading and Cluster Bomb here. Masterwork: Blast Radius.
 dimwishlist:item=2496242052&perks=981914802,3796465595,3300816228,1275731761
-dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,3927722942
-dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,1275731761
-dimwishlist:item=2496242052&perks=981914802,2985827016,706527188,3927722942
 //notes: Junk
 dimwishlist:item=-2496242052&perks=1844523823
 dimwishlist:item=-2496242052&perks=1478423395
@@ -2906,9 +2894,9 @@ dimwishlist:item=-409551876&perks=3161816588
 dimwishlist:item=-409551876&perks=3108830275
 
 // Imperial Needle
-//notes: (PvP): Archer's Tempo with Opening Shot is the combination for this bow along with a decreased Draw Time. Masterwork: Draw Time or Accuracy
+//notes: (PvP): Elastic with an Accuracy Masterwork, or Polymer with a Draw Time Masterwork plus Fiberglass, Archer's Tempo, and Opening Shot.
 dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,47981717
-dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,4082225868
+dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,47981717
 // Imperial Needle
 //notes: (PvE): Some good choices in column four, you'll want Archer's Tempo or Impulse Amplifier to pair with it. Masterwork: Any
 dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,3592538738
