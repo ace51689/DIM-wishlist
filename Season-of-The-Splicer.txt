@@ -94,6 +94,12 @@ dimwishlist:item=681067419&perks=1482024992,2420895100,247725512,4049631843
 dimwishlist:item=681067419&perks=4090651448,2420895100,247725512,3038247973
 dimwishlist:item=681067419&perks=4090651448,2420895100,247725512,4049631843
 dimwishlist:item=681067419&perks=839105230,3230963543,1820235745,4049631843
+//notes: Junk
+dimwishlist:item=-681067419&perks=1431678320
+dimwishlist:item=-681067419&perks=11612903
+dimwishlist:item=-681067419&perks=1467527085
+dimwishlist:item=-681067419&perks=202670084
+dimwishlist:item=-681067419&perks=3661387068
 
 // The Deicide
 //notes: (PvP): Full Choke with Accurized (duh!) for pvp, along with Slideshot/Hip-Fire and Demo/Wellspring for some slick reloads and ability energy. Masterwork: Range.
