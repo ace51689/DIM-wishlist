@@ -52,6 +52,15 @@ dimwishlist:item=3514096004&perks=1628165637,2420895100,3643424744,2726471870
 dimwishlist:item=3514096004&perks=1628165637,1087426260,3643424744,4049631843
 dimwishlist:item=3514096004&perks=1628165637,1087426260,3643424744,2726471870
 dimwishlist:item=3514096004&perks=1628165637,679225683,3643424744,2726471870
+//notes: Junk
+dimwishlist:item=-3514096004&perks=4267945040
+dimwishlist:item=-3514096004&perks=3161816588
+dimwishlist:item=-3514096004&perks=3108830275
+dimwishlist:item=-3514096004&perks=1431678320
+dimwishlist:item=-3514096004&perks=1968497646
+dimwishlist:item=-3514096004&perks=194952923
+dimwishlist:item=-3514096004&perks=194952922
+dimwishlist:item=-3514096004&perks=194952921
 
 // Multimach CCX
 //notes: (PvP): If you get Iron Grip look for Model 8 and Accurized Rounds/Flared Magwell. If not, Flared with Kill Clip for quicker Reload. Masterwork: Range or Stability
