@@ -1829,6 +1829,10 @@ dimwishlist:item=-2272470786&perks=3108830275
 
 // Sojourner's Tale
 //notes: (PvP): Moving Target with Opening Shot is probably what I'm looking for plus Range boosts. Masterwork: Range or Handling
+dimwishlist:item=599895591&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=599895591&perks=1840239774,3142289711,588594999,2450788523
+dimwishlist:item=599895591&perks=1840239774,679225683,588594999,47981717
+dimwishlist:item=599895591&perks=1840239774,679225683,588594999,2450788523
 dimwishlist:item=599895591&perks=3250034553,3142289711,588594999,47981717
 dimwishlist:item=599895591&perks=3250034553,3142289711,588594999,2450788523
 dimwishlist:item=599895591&perks=3250034553,679225683,588594999,47981717
@@ -1837,19 +1841,28 @@ dimwishlist:item=599895591&perks=1482024992,3142289711,588594999,47981717
 dimwishlist:item=599895591&perks=1482024992,3142289711,588594999,2450788523
 dimwishlist:item=599895591&perks=1482024992,679225683,588594999,47981717
 dimwishlist:item=599895591&perks=1482024992,679225683,588594999,2450788523
-//notes: (PvE): I'm starting to think Surrounded over Frenzy in column four, since running around with your shotgun out doesn't work in high end content. Masterwork: Range or Handling
-dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,3708227201
+//notes: (PvE): Auto-Loading with Frenzy works pretty well since Frenzy stays procced even when your weapon is stowed. Masterwork: Range or Handling
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,4104185692
-dimwishlist:item=599895591&perks=1482024992,791862061,3300816228,3708227201
 dimwishlist:item=599895591&perks=1482024992,791862061,3300816228,4104185692
-dimwishlist:item=599895591&perks=4090651448,791862061,3300816228,3708227201
 dimwishlist:item=599895591&perks=4090651448,791862061,3300816228,4104185692
-dimwishlist:item=599895591&perks=1392496348,791862061,3300816228,4104185692
+dimwishlist:item=599895591&perks=202670084,791862061,3300816228,4104185692
 //notes: Junk
-dimwishlist:item=-599895591&perks=202670084
-dimwishlist:item=-599895591&perks=1087426260
-dimwishlist:item=-599895591&perks=2420895100
 dimwishlist:item=-599895591&perks=3177308360
+dimwishlist:item=-599895591&perks=2420895100
+dimwishlist:item=-599895591&perks=106909392
+dimwishlist:item=-599895591&perks=1087426260
+dimwishlist:item=-599895591&perks=706527188
+dimwishlist:item=-599895591&perks=4071163871
+dimwishlist:item=-599895591&perks=2946784966
+dimwishlist:item=-599895591&perks=247725512
+dimwishlist:item=-599895591&perks=11612903
+dimwishlist:item=-599895591&perks=2848615171
+dimwishlist:item=-599895591&perks=3708227201
+dimwishlist:item=-599895591&perks=202670084
+dimwishlist:item=-599895591&perks=1392496348
+dimwishlist:item=-599895591&perks=1467527085
+dimwishlist:item=-599895591&perks=3661387068
+dimwishlist:item=-599895591&perks=839105230
 
 // Occluded Finality
 //notes: (PvP): You're probably going to want Opening Shot to help with accuracy (and maybe even Under Pressure depending on when it triggers). Masterwork: Range or Handling
