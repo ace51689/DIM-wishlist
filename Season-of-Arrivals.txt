@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------Season of Arrivals (S11)---------------------------------------------------------------------------
+// Steel Sybil Z-14
+//notes: (PvP): In PvP swords are swords. This is no exception.
+dimwishlist:item=4230993599&perks=2349202967,2590710093,354401740
+dimwishlist:item=4230993599&perks=52780822,2590710093,354401740
+//notes: (PvE): There are certainly better swords for PvE out there...
+dimwishlist:item=4230993599&perks=269888150,1749209109,3913600130
+//notes: Junk
+dimwishlist:item=-4230993599&perks=1261178282
+dimwishlist:item=-4230993599&perks=599007201
+dimwishlist:item=-4230993599&perks=3625355092
+dimwishlist:item=-4230993599&perks=1685431615
+
 // Outrageous Fortune
 //notes: (PvP): Rangefinder and Quickdraw/Rampage for pvp, not much else to say here. Masterwork: Velocity or Blast Radius
 dimwishlist:item=4146702548&perks=1441682018,2822142346,2846385770,706527188
@@ -116,9 +128,16 @@ dimwishlist:item=991314988&perks=981914802,2822142346,957782887,706527188
 //notes: (PvE): This plus Impact Casing is probably the God roll. Thanks Uncle Drifty!
 dimwishlist:item=991314988&perks=1478423395,3977735242,1275731761
 //notes: Junk
-dimwishlist:item=-991314988&perks=3096702027
 dimwishlist:item=-991314988&perks=1015611457
+dimwishlist:item=-991314988&perks=3096702027
+dimwishlist:item=-991314988&perks=957782887
+dimwishlist:item=-991314988&perks=2869569095
 dimwishlist:item=-991314988&perks=3492396210
+dimwishlist:item=-991314988&perks=1996142143
+dimwishlist:item=-991314988&perks=2985827016
+dimwishlist:item=-991314988&perks=1844523823
+dimwishlist:item=-991314988&perks=3809316345
+dimwishlist:item=-991314988&perks=3798852852
 
 // Temptation's Hook
 //notes: (PvP): Swords in pvp are a mixed bag, Caster Frame Swords are the ones you want to use though. Masterwork: Impact.
@@ -1163,12 +1182,17 @@ dimwishlist:item=211938782&perks=852209214,16392701,2450788523
 dimwishlist:item=211938782&perks=852209214,3429800428,201365942
 dimwishlist:item=211938782&perks=852209214,3429800428,2450788523
 dimwishlist:item=211938782&perks=852209214,3827198035,201365942
-dimwishlist:item=211938782&perks=852209214,3827198035,2450788523
 //notes: Junk
-dimwishlist:item=-211938782&perks=3108830275#notes:|tags:junk
-dimwishlist:item=-211938782&perks=1866048759#notes:|tags:junk
-dimwishlist:item=-211938782&perks=2154191829#notes:|tags:junk
-dimwishlist:item=-211938782&perks=1500996326#notes:|tags:junk
+dimwishlist:item=-211938782&perks=2154191829
+dimwishlist:item=-211938782&perks=3311977193
+dimwishlist:item=-211938782&perks=1500996326
+dimwishlist:item=-211938782&perks=1866048759
+dimwishlist:item=-211938782&perks=280464955
+dimwishlist:item=-211938782&perks=3108830275
+dimwishlist:item=-211938782&perks=3371775011
+dimwishlist:item=-211938782&perks=1784898267
+dimwishlist:item=-211938782&perks=1196733167
+dimwishlist:item=-211938782&perks=3768438372
 
 // Lonesome
 //notes: (PvP): I'm honing in on the roll I want for pvp: Chambered with Ricochet and Zen Moment for great Stability and Opening Shot. Masterwork: Stability or Handling
