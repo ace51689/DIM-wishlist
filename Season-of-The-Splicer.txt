@@ -2040,15 +2040,25 @@ dimwishlist:item=3653573172&perks=1482024992,3142289711,588594999,47981717
 dimwishlist:item=3653573172&perks=1482024992,106909392,588594999,47981717
 //notes: (PvE): I think I'm leaning towards Rewind Rounds here since it's dependent on hits not kills. Frenzy in the final column. Masterwork: Range or Stability
 dimwishlist:item=3653573172&perks=3250034553,106909392,3418782618,4104185692
-dimwishlist:item=3653573172&perks=3250034553,3142289711,3418782618,4104185692
+dimwishlist:item=3653573172&perks=3250034553,106909392,3418782618,2213355989
 //notes: Junk
+dimwishlist:item=-3653573172&perks=839105230
+dimwishlist:item=-3653573172&perks=3661387068
+dimwishlist:item=-3653573172&perks=4090651448
+dimwishlist:item=-3653573172&perks=1467527085
+dimwishlist:item=-3653573172&perks=1840239774
+dimwishlist:item=-3653573172&perks=202670084
+dimwishlist:item=-3653573172&perks=1392496348
 dimwishlist:item=-3653573172&perks=2420895100
 dimwishlist:item=-3653573172&perks=3177308360
+dimwishlist:item=-3653573172&perks=1431678320
+dimwishlist:item=-3653573172&perks=706527188
 dimwishlist:item=-3653573172&perks=1774574192
+dimwishlist:item=-3653573172&perks=2866798147
+dimwishlist:item=-3653573172&perks=2779035018
 dimwishlist:item=-3653573172&perks=11612903
-dimwishlist:item=-3653573172&perks=202670084
-dimwishlist:item=-3653573172&perks=1840239774
-dimwishlist:item=-3653573172&perks=839105230
+dimwishlist:item=-3653573172&perks=1015611457
+dimwishlist:item=-3653573172&perks=3824105627
 
 // The Number
 //notes: (PvP): Not a lot here for pvp, High-Impact Reserves in the final column paired with Under Pressure/Surplus. Masterwork: Range or Handling
@@ -2735,15 +2745,30 @@ dimwishlist:item=-852551895&perks=2420895100
 // Corrective Measure
 //notes: (PvP): This plus a Range Masterwork is about as good as it can get for this weapon in pvp.
 dimwishlist:item=471518543&perks=3250034553,2420895100,1359896290,1890422124
+dimwishlist:item=471518543&perks=3250034553,3142289711,1359896290,1890422124
 //notes: (PvE): I think Substence just edges out Rewind Rounds since it doesn't rely on emptying the mag; Appended Mag for a free mag bump. Masterwork: Range or Handling
 dimwishlist:item=471518543&perks=1840239774,1087426260,1820235745,4049631843
 dimwishlist:item=471518543&perks=1840239774,2420895100,1820235745,4049631843
 //notes: Junk
-dimwishlist:item=-471518543&perks=202670084
-dimwishlist:item=-471518543&perks=3661387068
-dimwishlist:item=-471518543&perks=1467527085
+dimwishlist:item=-471518543&perks=3436462433
+dimwishlist:item=-471518543&perks=2779035018
+dimwishlist:item=-471518543&perks=3418782618
+dimwishlist:item=-471518543&perks=3523296417
+dimwishlist:item=-471518543&perks=11612903
+dimwishlist:item=-471518543&perks=2726471870
+dimwishlist:item=-471518543&perks=2213355989
+dimwishlist:item=-471518543&perks=3824105627
+dimwishlist:item=-471518543&perks=106909392
 dimwishlist:item=-471518543&perks=3177308360
 dimwishlist:item=-471518543&perks=1431678320
+dimwishlist:item=-471518543&perks=3230963543
+dimwishlist:item=-471518543&perks=839105230
+dimwishlist:item=-471518543&perks=3661387068
+dimwishlist:item=-471518543&perks=4090651448
+dimwishlist:item=-471518543&perks=1467527085
+dimwishlist:item=-471518543&perks=202670084
+dimwishlist:item=-471518543&perks=1392496348
+dimwishlist:item=-471518543&perks=1482024992
 
 // Empty Vessel
 //notes: (PvP): For speical Grenade Launchers you want to push out the Velocity and worry less about Blast Radius. Masterwork: NOT Blast Radius
