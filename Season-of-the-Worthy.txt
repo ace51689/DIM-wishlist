@@ -1013,34 +1013,33 @@ dimwishlist:item=-2742838700&perks=1631667848
 dimwishlist:item=-2742838700&perks=2869569095
 
 // Timelines' Vertex
-//notes: (PvP): Your going to want the highest Stability possible, Auto-Loading is great, but Firmly Planted might make this a laser. Masterwork: Stability
-dimwishlist:item=3055192515&perks=1628165637,3868766766,3300816228,3523296417
-dimwishlist:item=3055192515&perks=1628165637,3868766766,3300816228,3511092054
-dimwishlist:item=3055192515&perks=1628165637,3868766766,280464955,3523296417
-dimwishlist:item=3055192515&perks=1628165637,3868766766,280464955,3511092054
-dimwishlist:item=3055192515&perks=1409978311,3868766766,3300816228,3523296417
-dimwishlist:item=3055192515&perks=1409978311,3868766766,3300816228,3511092054
+//notes: (PvP): Jolt PS with Particle Repeater and Firmly Planted would be a good start, then It's a toss up between Snapshot/Backup Plan/Demo. Masterwork: Stability
+dimwishlist:item=3055192515&perks=1409978311,3868766766,280464955,957782887
+dimwishlist:item=3055192515&perks=1409978311,3868766766,280464955,1600092898
 dimwishlist:item=3055192515&perks=1409978311,3868766766,280464955,3523296417
-dimwishlist:item=3055192515&perks=1409978311,3868766766,280464955,3511092054
-dimwishlist:item=3055192515&perks=1409978308,3868766766,3300816228,3523296417
-dimwishlist:item=3055192515&perks=1409978308,3868766766,3300816228,3511092054
+dimwishlist:item=3055192515&perks=1628165637,3868766766,280464955,957782887
+dimwishlist:item=3055192515&perks=1628165637,3868766766,280464955,1600092898
+dimwishlist:item=3055192515&perks=1628165637,3868766766,280464955,3523296417
+dimwishlist:item=3055192515&perks=1409978308,3868766766,280464955,957782887
+dimwishlist:item=3055192515&perks=1409978308,3868766766,280464955,1600092898
 dimwishlist:item=3055192515&perks=1409978308,3868766766,280464955,3523296417
-dimwishlist:item=3055192515&perks=1409978308,3868766766,280464955,3511092054
-dimwishlist:item=3055192515&perks=1409978308,2969185026,280464955,957782887
-//notes: (PvE): Auto-Loading with Demo is the way to go here. Liquid Coils for more damage would be the choice in column two. Masterwork: Handling or Stability
+//notes: (PvE): This is my God roll: Jolt - Liquid Coils - Auto-Loading - Demolitionist. Go have some fun you maniac! Masterwork: NOT Charge Time
 dimwishlist:item=3055192515&perks=1409978311,1687452232,3300816228,3523296417
-dimwishlist:item=3055192515&perks=1409978311,2680121939,3300816228,3523296417
-dimwishlist:item=3055192515&perks=1628165637,1687452232,3300816228,3523296417
-dimwishlist:item=3055192515&perks=1628165637,2680121939,3300816228,3523296417
-dimwishlist:item=3055192515&perks=1409978308,1687452232,3300816228,3523296417
-dimwishlist:item=3055192515&perks=1409978308,2680121939,3300816228,3523296417
 //notes: Junk
-dimwishlist:item=-3055192515&perks=1628165636
 dimwishlist:item=-3055192515&perks=194952923
 dimwishlist:item=-3055192515&perks=194952922
 dimwishlist:item=-3055192515&perks=194952921
 dimwishlist:item=-3055192515&perks=1409978309
+dimwishlist:item=-3055192515&perks=1628165636
+dimwishlist:item=-3055192515&perks=689005463
+dimwishlist:item=-3055192515&perks=2680121939
 dimwishlist:item=-3055192515&perks=1483536627
+dimwishlist:item=-3055192515&perks=2969185026
+dimwishlist:item=-3055192515&perks=2869569095
+dimwishlist:item=-3055192515&perks=3275789089
+dimwishlist:item=-3055192515&perks=1556840489
+dimwishlist:item=-3055192515&perks=1683379515
+dimwishlist:item=-3055192515&perks=3511092054
 
 // Escape Velocity
 //notes: (PvP): I'm a stability guy, but I don't think Steady Rounds is worth the price here - Masterwork: Stability
