@@ -1,12 +1,7 @@
 ------------------------------------------------------------Season of The Worthy (S10)------------------------------------------------------------
 // Interference VI
-//notes: (PvP): Volatile/Confined Launch - Proximity Grenades - Auto-Loading - Demolitionist/Swash; Masterwork: Blast Radius
+//notes: (PvP): Volatile Launch - Proximity Grenades - Auto-Loading Holster - Demolitionist; Masterwork: Blast Radius
 dimwishlist:item=2257180473&perks=1478423395,409831596,3300816228,3523296417
-dimwishlist:item=2257180473&perks=1478423395,409831596,3300816228,4082225868
-dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,3523296417
-dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,4082225868
-dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,3523296417
-dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,4082225868
 //notes: (PvE): Quick/Hard Launch - Spike - Auto-Loading/Field Prep - Full Court; Masterwork: Reload
 dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110
 dimwishlist:item=2257180473&perks=3525010810,3301904089,2869569095,2888557110
