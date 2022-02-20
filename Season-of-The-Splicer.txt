@@ -2064,8 +2064,6 @@ dimwishlist:item=-2492081469
 // Crown-Splitter
 //notes: (PvE/PvP): Jagged - Heavy - Tireless - Vorpal
 dimwishlist:item=2782325302&perks=3666208348,2349202967,2590710093,1546637391
-dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
-dimwishlist:item=2782325302&perks=3666208348,2349202967,2726471870,1546637391
 //notes: Junk
 dimwishlist:item=-2782325302
 
