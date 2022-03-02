@@ -448,7 +448,7 @@ dimwishlist:item=3682803680&perks=1840239774,3142289711,1359896290,1015611457
 dimwishlist:item=3682803680&perks=1840239774,3142289711,1359896290,1890422124
 dimwishlist:item=3682803680&perks=1840239774,106909392,1359896290,1015611457
 dimwishlist:item=3682803680&perks=1840239774,106909392,1359896290,1890422124
-//notes: (PvE): Fluted/Smallbore - Tactical/Appended - Tunnel Vision/Heating Up - Kill Clip/Adrenaline Junkie; Masterwork: Reload (Pre-S16)
+//notes: (PvE): Fluted/Smallbore - Tactical/Appended - Tunnel Vision/Heating Up - Kill Clip/Adrenaline; Masterwork: Reload (Pre-S16)
 dimwishlist:item=3682803680&perks=1840239774,106909392,2946784966,1015611457
 dimwishlist:item=3682803680&perks=1840239774,106909392,2946784966,11612903
 dimwishlist:item=3682803680&perks=1840239774,106909392,2946784966,438098033
@@ -562,7 +562,7 @@ dimwishlist:item=4023807721&perks=4090651448,106909392,588594999,957782887
 dimwishlist:item=4023807721&perks=4090651448,106909392,2450788523,1015611457
 dimwishlist:item=4023807721&perks=4090651448,106909392,2450788523,1890422124
 dimwishlist:item=4023807721&perks=4090651448,106909392,2450788523,957782887
-//notes: (PvE): Fluted/Smallbore - Tactical/Appended - Tunnel Vision/Heating Up - Kill Clip/Adrenaline Junkie; Masterwork: Reload (Pre-S16)
+//notes: (PvE): Fluted/Smallbore - Tactical/Appended - Tunnel Vision/Heating Up - Kill Clip/Adrenaline; Masterwork: Reload (Pre-S16)
 dimwishlist:item=4023807721&perks=1840239774,106909392,2946784966,1015611457
 dimwishlist:item=4023807721&perks=1840239774,106909392,2946784966,11612903
 dimwishlist:item=4023807721&perks=1840239774,106909392,2946784966,438098033
