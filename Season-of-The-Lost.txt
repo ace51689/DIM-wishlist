@@ -708,7 +708,7 @@ dimwishlist:item=1476654960&perks=1926090095,3142289711,588594999,47981717
 dimwishlist:item=1476654960&perks=1926090095,3142289711,588594999,1954620775
 dimwishlist:item=1476654960&perks=1926090094,3142289711,588594999,47981717
 dimwishlist:item=1476654960&perks=1926090094,3142289711,588594999,1954620775
-//notes: (PvE): Fastdraw/SteadyHand - Tactical/Appended - Demo/Encore - Timed Payload/Adrenaline Junkie - Masterwork: Reload
+//notes: (PvE): Fastdraw/SteadyHand - Tactical/Appended - Demo/Encore - Timed Payload/Adrenaline; Masterwork: Reload
 dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,1954620775
 dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,11612903
 dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,2458213969
