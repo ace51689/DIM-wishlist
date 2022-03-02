@@ -1142,12 +1142,11 @@ dimwishlist:item=991314988&perks=1478423395,3977735242,1275731761
 dimwishlist:item=-991314988
 
 // Temptation's Hook
-//notes: (PvP): Jagged Edge - Swordmaster's Guard - Tireless Blade - En Garde
+//notes: (PvP): GOD ROLL!!! Jagged Edge - Swordmaster's Guard - Tireless Blade - En Garde (S15)
 dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1685431615
 // Temptation's Hook
-//notes: (PvE): Jagged Edge - Swordmaster's Guard - Tireless/Relentless - Vorpal Weapon
+//notes: (PvE): GOD ROLL!!! Jagged Edge - Swordmaster's Guard - Tireless Blade - Vorpal Weapon (S15)
 dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391
-dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,1546637391
 //notes: Junk
 dimwishlist:item=-35794111
 
