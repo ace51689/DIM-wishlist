@@ -1,4 +1,4 @@
-------------------------------------------------------------Season of The Worthy (S10)------------------------------------------------------------
+<--------------------------------------------------------------------------Season of The Worthy (S10)-------------------------------------------------------------------------->
 // Seventh Seraph Carbine
 //notes: (PvP): Fluted/Arrowhead - High-Caliber/Ricochet - Slideshot/Threat Detector - Moving Target/Rangefinder; Masterwork: Stability or Handling
 dimwishlist:item=1561006927&perks=1840239774,1561002382,3161816588,588594999
