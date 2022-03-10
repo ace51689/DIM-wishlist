@@ -1,4 +1,4 @@
----------------------------------------------------------------------------Season of Arrivals (S11)---------------------------------------------------------------------------
+<---------------------------------------------------------------------------Season of Arrivals (S11)--------------------------------------------------------------------------->
 // BrayTech Werewolf
 //notes: (PvP): Fluted/Arrowhead - Ricochet/High-Caliber - Dynamic Sway/Under Pressure - Tap the Trigger/Eye of the Storm; Masterwork: Stability or Handling (S15)
 dimwishlist:item=528834068&perks=1840239774,1885400500,1359896290,1890422124
