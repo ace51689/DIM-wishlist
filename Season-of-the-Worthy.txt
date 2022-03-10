@@ -44,6 +44,7 @@ dimwishlist:item=1561006927&perks=1840239774,2420895100,1354429876,3425386926
 //notes: Junk
 dimwishlist:item=-1561006927
 
+
 // Seventh Seraph SAW
 //notes: (PvP): Fluted/Smallbore - Ricochet Rounds - Zen Moment - Opening Shot; Masterwork: Stability or Handling
 dimwishlist:item=2582755344&perks=1840239774,1885400500,2387244414,47981717
@@ -55,6 +56,7 @@ dimwishlist:item=2582755344&perks=1840239774,1087426260,3300816228,1771339417
 dimwishlist:item=2582755344&perks=839105230,1087426260,3300816228,1771339417
 //notes: Junk
 dimwishlist:item=-2582755344
+
 
 // Seventh Seraph SI-2
 //notes: (PvP): Fluted/Smallbore - Accurized Rounds - Demolitionist - Snapshot/Elemental Capacitor; Masterwork: Stability or Range
@@ -103,6 +105,7 @@ dimwishlist:item=3937866388&perks=4090651448,2420895100,3300816228,2848615171
 dimwishlist:item=3937866388&perks=4090651448,2420895100,3300816228,1546637391
 //notes: Junk
 dimwishlist:item=-3937866388
+
 
 // Seventh Seraph Officer Revolver
 //notes: (PvP): Fluted/Smallbore - Accurized - Firmly Planted/Threat Detector - Timed Payload; Masterwork: Handling or Stability
@@ -170,6 +173,7 @@ dimwishlist:item=3037520408&perks=4090651448,2420895100,1354429876,2213355989
 //notes: Junk
 dimwishlist:item=-3037520408
 
+
 // Seventh Seraph CQC-12
 //notes: (PvP): Full Choke - Assault Mag/Accurized - Quickdraw/Slideshot - Snapshot/Vorpal; Masterwork: Range or Handling
 dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887
@@ -190,6 +194,7 @@ dimwishlist:item=1821724780&perks=1482024992,106909392,3300816228,2360754333
 //notes: Junk
 dimwishlist:item=-1821724780
 
+
 // Seventh Seraph VY-7
 //notes: (PvP): Fluted/Smallbore - Accurized - Firmly Planted - Feeding Frenzy/Vorpal; Masterwork: Stability or Handling
 dimwishlist:item=766323545&perks=1840239774,3142289711,280464955,2779035018
@@ -207,6 +212,7 @@ dimwishlist:item=766323545&perks=1840239774,106909392,1354429876,2779035018
 dimwishlist:item=766323545&perks=1840239774,106909392,1354429876,2848615171
 //notes: Junk
 dimwishlist:item=-766323545
+
 
 // Dire Promise
 //notes: (PvP): SteadyHand - Ricochet/High-Caliber - Opening Shot - Rangefinder; Masterwork: Stability or Range
@@ -239,6 +245,7 @@ dimwishlist:item=2742838701&perks=1926090092,679225683,3643424744,4082225868
 dimwishlist:item=2742838701&perks=1926090092,679225683,3643424744,1774574192
 //notes: Junk
 dimwishlist:item=-2742838701
+
 
 // Enigma's Draw
 //notes: (PvP): Quickdot - High-Caliber/Ricochet Rounds - Opening Shot - Rangefinder; Masterwork: Handling or Stability
@@ -331,6 +338,7 @@ dimwishlist:item=1723380073&perks=445755705,2420895100,4267945040,247725512
 //notes: Junk
 dimwishlist:item=-1723380073
 
+
 // True Prophecy
 //notes: (PvP): SteadyHand - Accurized Rounds - Rangefinder/Opening Shot - Explosive Payload; Masterwork: Handling or Stability
 dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3038247973
@@ -341,6 +349,7 @@ dimwishlist:item=2742838700&perks=1926090094,106909392,3643424744,1954620775
 dimwishlist:item=2742838700&perks=1926090094,106909392,3643424744,3425386926
 //notes: Junk
 dimwishlist:item=-2742838700
+
 
 // Honor's Edge
 //notes: (PvP): Jagged/Honed - Swordmaster's/Burst Guard - Tireless Blade - En Garde
@@ -433,6 +442,7 @@ dimwishlist:item=2857348871&perks=938542991,2349202967,2030760728,1685431615
 //notes: Junk
 dimwishlist:item=-2857348871
 
+
 // Timelines' Vertex
 //notes: (PvP): Impulse/Flash - Accelerated Coils/Projection Fuse - Firmly Planted - Snapshot/Disruption Break; Masterwork: Stability or Handling
 dimwishlist:item=3055192515&perks=194952922,689005463,280464955,957782887
@@ -452,6 +462,7 @@ dimwishlist:item=3055192515&perks=1409978309,1687452232,3300816228,3523296417
 dimwishlist:item=3055192515&perks=1409978308,1687452232,3300816228,3523296417
 //notes: Junk
 dimwishlist:item=-3055192515
+
 
 // Escape Velocity
 //notes: (PvP): Model 8/Model 6 - Accurized/Tactical Mag - Overflow/Hip-Fire - Elemental Capacitor/Vorpal; Masterwork: Stability or Handling
@@ -479,6 +490,7 @@ dimwishlist:item=1786797708&perks=2209280307,106909392,3643424744,3708227201
 //notes: Junk
 dimwishlist:item=-1786797708
 
+
 // Interference VI
 //notes: (PvP): Volatile Launch - Proximity Grenades - Auto-Loading Holster - Demolitionist; Masterwork: Blast Radius
 dimwishlist:item=2257180473&perks=1478423395,409831596,3300816228,3523296417
@@ -489,6 +501,7 @@ dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110
 dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,2888557110
 //notes: Junk
 dimwishlist:item=-2257180473
+
 
 // Jian 7 Rifle
 //notes: (PvP): SPO-57 - Ricochet - Firmly Planted/Disruption Break - Rangefinder; Masterwork: Stability or Handling
@@ -570,6 +583,7 @@ dimwishlist:item=1162247618&perks=3151536500,2420895100,1631667848,2848615171
 dimwishlist:item=1162247618&perks=3151536500,2420895100,1631667848,4082225868
 //notes: Junk
 dimwishlist:item=-1162247618
+
 
 // Distant Tumulus
 //notes: (PvP): Fluted/Arrowhead/Hammer-Forged - Accurized/Tactical - Pulse Monitor - Snapshot/Quickdraw/Opening Shot; Masterwork: Range
