@@ -1,4 +1,4 @@
-<--------------------------------------------------------------------Beyond Light / Season of the Hunt (S12)------------------------------------------------------------------->
+<-------------------------------------------------------------------Beyond Light / Season of the Hunt (S12)------------------------------------------------------------------>
 // Avalanche
 //notes: (PvP): SPO-57/SPO-28 - Ricochet Rounds - Surplus - Tap the Trigger: Masterwork: Stability or Handling
 dimwishlist:item=66875353&perks=3151536501,1885400500,3436462433,1890422124
