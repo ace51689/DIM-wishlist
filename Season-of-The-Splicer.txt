@@ -1,4 +1,4 @@
-<-------------------------------------------------------------------------Season of The Splicer (S14)------------------------------------------------------------------------->
+<------------------------------------------------------------------------Season of The Splicer (S14)------------------------------------------------------------------------>
 // Tigerspite
 //notes: (PvP): Fluted/Arrowhead - Ricochet/High-Caliber - Overflow/Surplus - Rangefinder/Kill Clip; Masterwork: Stability or Handling (Pre-WQ)
 dimwishlist:item=640114618&perks=1840239774,1885400500,3643424744,2846385770
