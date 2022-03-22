@@ -423,6 +423,8 @@ dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007
 dimwishlist:item=108221785&perks=1047830412,3142289711,3436462433,591790007
 dimwishlist:item=108221785&perks=1047830412,3142289711,280464955,591790007
 dimwishlist:item=108221785&perks=1482024992,3142289711,1866048759,591790007
+//notes: (PvP): TRY THIS OUT!!! Full Choke - Assault Mag - Steady Hands - Killing Wind; Masterwork: Range or Handling (Pre-WQ)
+dimwishlist:item=108221785&perks=1047830412,791862061,509074078,2450788523
 //notes: (PvE): Barrel Shroud/Corkscrew - Tactical/Assault - Surplus/Quickdraw - Vorpal/Demo; Masterwork: Reload (Pre-WQ)
 dimwishlist:item=108221785&perks=1300023272,106909392,3436462433,1546637391
 dimwishlist:item=108221785&perks=1300023272,106909392,3436462433,3523296417
