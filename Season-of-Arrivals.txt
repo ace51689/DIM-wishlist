@@ -3,13 +3,9 @@
 //notes: (PvP): Volatile Launch - Powder/High-Velocity - Tracking Module - Quickdraw; Masterwork: Blast Radius
 dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,706527188
 dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,706527188
-//notes: (PvE): Quick/Smart Drift - Alloy Casing - Auto-Loading/Field Prep - Cluster Bomb; Masterwork: Reload
+//notes: (PvE): Quick Launch - Alloy Casing - Auto-Loading/Field Prep - Cluster Bomb; Masterwork: Reload
 dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,1275731761
 dimwishlist:item=991314988&perks=3525010810,2985827016,2869569095,1275731761
-dimwishlist:item=991314988&perks=3525010810,2985827016,3977735242,1275731761
-dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,1275731761
-dimwishlist:item=991314988&perks=3798852852,2985827016,2869569095,1275731761
-dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,1275731761
 //notes: (PvE): Uncle Drifty's roll: Volatile Launch - Impact Casing - Tracking Module - Cluster Bomb; Masterwork: Blast Radius
 dimwishlist:item=991314988&perks=1478423395,3977735242,1275731761
 //notes: Junk
