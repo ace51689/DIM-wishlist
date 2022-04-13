@@ -272,7 +272,8 @@ dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,11612903
 dimwishlist:item=2723909519&perks=4090651448,2420895100,2779035018,4104185692
 dimwishlist:item=2723909519&perks=4090651448,2420895100,2779035018,3425386926
 dimwishlist:item=2723909519&perks=4090651448,2420895100,2779035018,11612903
-
+//notes: Junk
+dimwishlist:item=-2723909519
 
 // Dream Breaker
 //notes: (PvP): Fluted/Arrowhead - Accelerated/Particle - Underpressure/Firmly Planted - Eye of the Storm/High-Impact; Masterwork: Stability or Handling (Pre-WQ)
