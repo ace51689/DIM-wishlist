@@ -975,11 +975,9 @@ dimwishlist:item=-1572896086
 // Explosive Personality
 //notes: (PvP): GOD ROLL!!! Quick Launch - High-Velocity Rounds - Auto-Loading Holster - Disruption Break; Masterwork: Handling
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,1683379515
-//notes: (PvE): Quick/Linear - High-Velocity Rounds - Auto-Loading Holster - One for All/Unrelenting; Masterwork: Reload
+//notes: (PvE): Quick Launch - High-Velocity Rounds - Auto-Loading Holster - One for All/Unrelenting; Masterwork: Reload
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4049631843
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,3108830275
-dimwishlist:item=4096943616&perks=1441682018,2822142346,3300816228,4049631843
-dimwishlist:item=4096943616&perks=1441682018,2822142346,3300816228,3108830275
 //notes: Junk
 dimwishlist:item=-4096943616
 
