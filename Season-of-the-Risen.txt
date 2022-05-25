@@ -929,27 +929,19 @@ dimwishlist:item=1248372789&perks=1392496348,106909392,2450788523,1890422124
 dimwishlist:item=1248372789&perks=1392496348,106909392,2450788523,3523296417
 dimwishlist:item=1248372789&perks=1392496348,106909392,1428297954,1890422124
 dimwishlist:item=1248372789&perks=1392496348,106909392,1428297954,3523296417
-//notes: (PvE): Arrowhead/Fluted - Tactical/Appended - Triple Tap/Perpetual - Vorpal Weapon; Masterwork: Reload
+//notes: (PvE): Arrowhead Brake - Tactical/Appended - Triple Tap/Perpetual - Vorpal Weapon; Masterwork: Reload
 dimwishlist:item=1248372789&perks=839105230,106909392,3400784728,1546637391
 dimwishlist:item=1248372789&perks=839105230,106909392,1428297954,1546637391
 dimwishlist:item=1248372789&perks=839105230,1087426260,3400784728,1546637391
 dimwishlist:item=1248372789&perks=839105230,1087426260,1428297954,1546637391
-dimwishlist:item=1248372789&perks=1840239774,106909392,3400784728,1546637391
-dimwishlist:item=1248372789&perks=1840239774,106909392,1428297954,1546637391
-dimwishlist:item=1248372789&perks=1840239774,1087426260,3400784728,1546637391
-dimwishlist:item=1248372789&perks=1840239774,1087426260,1428297954,1546637391
 //notes: Junk
 dimwishlist:item=-1248372789
 
 
 // Under Your Skin
-//notes: (PvP): Elastic/Flexible - Fiberglass Arrow Shaft - Archer's Tempo - Opening Shot/Successful Warm-Up; Masterwork: Draw Time or Accuracy
+//notes: (PvP): Elastic String - Fiberglass Arrow Shaft - Archer's Tempo - Opening Shot/Successful Warm-Up; Masterwork: Draw Time or Accuracy
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,47981717
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,2652708987
-dimwishlist:item=232928045&perks=4067834857,3429800428,201365942,47981717
-dimwishlist:item=232928045&perks=4067834857,3429800428,201365942,2652708987
-dimwishlist:item=232928045&perks=852209214,3429800428,201365942,47981717
-dimwishlist:item=232928045&perks=852209214,3429800428,201365942,2652708987
 //notes: (PvE): Elastic/Flexible - Fiberglass Arrow Shaft - Archer's Tempo/Unrelenting - Explosive Head; Masterwork: Draw Time
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,3365897133
 dimwishlist:item=232928045&perks=2801223209,3429800428,3108830275,3365897133
