@@ -1,4 +1,31 @@
 <------------------------------------------------------------------------Iron Banner Weapons------------------------------------------------------------------------>
+// Gunnora's Axe
+//notes: (PvP): Fluted/Hammer-Forged - Accurized Rounds - Threat Detector - Opening Shot/Iron Reach; Masterwork: Range
+dimwishlist:item=487361141&perks=1840239774,3142289711,4071163871,47981717
+dimwishlist:item=487361141&perks=1840239774,3142289711,4071163871,591790007
+dimwishlist:item=487361141&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=487361141&perks=1840239774,3142289711,588594999,591790007
+dimwishlist:item=487361141&perks=3250034553,3142289711,4071163871,47981717
+dimwishlist:item=487361141&perks=3250034553,3142289711,4071163871,591790007
+dimwishlist:item=487361141&perks=3250034553,3142289711,588594999,47981717
+dimwishlist:item=487361141&perks=3250034553,3142289711,588594999,591790007
+//notes: (PvE): Fluted/Smallbore - Appended/Tactical - Auto-Loading/Threat Detector - Vorpal Weapon; Masterwork: Reload
+dimwishlist:item=487361141&perks=1840239774,1087426260,3300816228,1546637391
+dimwishlist:item=487361141&perks=1840239774,1087426260,4071163871,1546637391
+dimwishlist:item=487361141&perks=1840239774,106909392,3300816228,1546637391
+dimwishlist:item=487361141&perks=1840239774,106909392,4071163871,1546637391
+dimwishlist:item=487361141&perks=1840239774,3230963543,3300816228,1546637391
+dimwishlist:item=487361141&perks=1840239774,3230963543,4071163871,1546637391
+dimwishlist:item=487361141&perks=1482024992,1087426260,3300816228,1546637391
+dimwishlist:item=487361141&perks=1482024992,1087426260,4071163871,1546637391
+dimwishlist:item=487361141&perks=1482024992,106909392,3300816228,1546637391
+dimwishlist:item=487361141&perks=1482024992,106909392,4071163871,1546637391
+dimwishlist:item=487361141&perks=1482024992,3230963543,3300816228,1546637391
+dimwishlist:item=487361141&perks=1482024992,3230963543,4071163871,1546637391
+//notes: Junk
+dimwishlist:item=-487361141
+
+
 // The Wizened Rebuke
 //notes: (PvP): Arrowhead/Chambered - Accelerated/Particle - Under Pressure/Moving Target/Well-Rounded - Warm-Up/Iron Grip; Masterwork: Stability
 dimwishlist:item=1999697514&perks=839105230,689005463,1645158859,2652708987
