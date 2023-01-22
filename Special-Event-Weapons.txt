@@ -2,6 +2,13 @@
 
 
 <-------------------------------------------------Solstice------------------------------------------------->
+// Compass Rose
+//notes: (PvP): GOD ROLL!!! Full Choke - Accurized Rounds - Quickdraw - Snapshot Sights; Masterwork: Handling or Range (Pre-WQ)
+dimwishlist:item=2591111628&perks=1047830412,3142289711,706527188,957782887
+//notes: (PvE): GOD ROLL (Maybe?) Barrel Shroud - Tactical Mag - Lead from Gold (no more Field Prep) - Vorpal Weapon; Masterwork: Reload
+dimwishlist:item=2591111628&perks=1300023272,106909392,1556840489,1546637391
+//notes: Junk
+dimwishlist:item=-2591111628
 
 
 <-------------------------------------------Festival of The Lost------------------------------------------->
