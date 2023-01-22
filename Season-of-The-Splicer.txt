@@ -1,4 +1,4 @@
-<------------------------------------------------------------------------Season of The Splicer (S14)------------------------------------------------------------------------>
+<--------------------------------------------------------------------Season of The Splicer (S14)-------------------------------------------------------------------->
 // Tigerspite
 //notes: (PvP): Fluted/Arrowhead - Ricochet/High-Caliber - Overflow/Surplus - Rangefinder; Masterwork: Stability or Handling (Pre-WQ)
 dimwishlist:item=640114618&perks=1840239774,1885400500,3643424744,2846385770
@@ -2216,24 +2216,3 @@ dimwishlist:item=-2782325301
 dimwishlist:item=2782325302&perks=3666208348,2349202967,2590710093,1546637391
 //notes: Junk
 dimwishlist:item=-2782325302
-
-
-// Compass Rose
-//notes: (PvP): GOD ROLL!!! Full Choke - Accurized Rounds - Quickdraw - Snapshot Sights; Masterwork: Handling or Range (Pre-WQ)
-dimwishlist:item=2591111628&perks=1047830412,3142289711,706527188,957782887
-//notes: (PvE): Barrel Shroud/Corkscrew - Tactical/Assault - Field Prep/Lead from Gold - Vorpal Weapon; Masterwork: Reload (Pre-WQ)
-dimwishlist:item=2591111628&perks=1300023272,106909392,2869569095,1546637391
-dimwishlist:item=2591111628&perks=1300023272,106909392,1556840489,1546637391
-dimwishlist:item=2591111628&perks=1300023272,791862061,2869569095,1546637391
-dimwishlist:item=2591111628&perks=1300023272,791862061,1556840489,1546637391
-dimwishlist:item=2591111628&perks=1300023272,1087426260,2869569095,1546637391
-dimwishlist:item=2591111628&perks=1300023272,1087426260,1556840489,1546637391
-dimwishlist:item=2591111628&perks=4090651448,106909392,2869569095,1546637391
-dimwishlist:item=2591111628&perks=4090651448,106909392,1556840489,1546637391
-dimwishlist:item=2591111628&perks=4090651448,791862061,2869569095,1546637391
-dimwishlist:item=2591111628&perks=4090651448,791862061,1556840489,1546637391
-dimwishlist:item=2591111628&perks=4090651448,1087426260,2869569095,1546637391
-dimwishlist:item=2591111628&perks=4090651448,1087426260,1556840489,1546637391
-dimwishlist:item=2591111628&perks=4090651448,679225683,1556840489,1546637391
-//notes: Junk
-dimwishlist:item=-2591111628
