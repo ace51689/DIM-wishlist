@@ -211,13 +211,9 @@ dimwishlist:item=-4114929480
 
 
 // Typhon GL5
-//notes: (PvP): Volatile/Confined - Proximity Grenades - Impulse Amplifier/Demolitionist - Adrenaline; Masterwork: Blast Radius
+//notes: (PvP): Volatile/Confined - Proximity Grenades - Impulse Amplifier - Adrenaline; Masterwork: Blast Radius
 dimwishlist:item=3568377122&perks=1478423395,409831596,951095735,11612903
-dimwishlist:item=3568377122&perks=1478423395,409831596,3523296417,11612903
 dimwishlist:item=3568377122&perks=1844523823,409831596,951095735,11612903
-dimwishlist:item=3568377122&perks=1844523823,409831596,3523296417,11612903
-dimwishlist:item=3568377122&perks=3525010810,409831596,951095735,11612903
-dimwishlist:item=3568377122&perks=3525010810,409831596,3523296417,11612903
 //notes: (PvE): Quick/Linear - Spike Grenades - Demolitionist - Frenzy; Masterwork: Reload
 dimwishlist:item=3568377122&perks=3525010810,3301904089,3523296417,4104185692
 dimwishlist:item=3568377122&perks=1441682018,3301904089,3523296417,4104185692
