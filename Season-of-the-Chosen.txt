@@ -1,4 +1,4 @@
-<-------------------------------------------------------------------------Season of The Chosen (S13)------------------------------------------------------------------------->
+<---------------------------------------------------------------------Season of The Chosen (S13)--------------------------------------------------------------------->
 // Waking Vigil
 //notes: (PvP): SteadyHand/Fastdraw - Ricochet/High-Caliber - Rangefinder - Opening Shot/Snapshot; Masterwork: Range or Stability
 dimwishlist:item=334171687&perks=1926090095,1885400500,2846385770,47981717
@@ -273,31 +273,15 @@ dimwishlist:item=-3067821200
 
 
 // Blasphemer
-//notes: (PvP): Hammer-Forged/Smallbore - Assault/Accurized - Quickdraw/Threat Detector - Opening Shot/Moving Target; Masterwork: Range or Handling (Pre-WQ)
-dimwishlist:item=2782847179&perks=3250034553,791862061,706527188,47981717
-dimwishlist:item=2782847179&perks=3250034553,791862061,706527188,588594999
-dimwishlist:item=2782847179&perks=3250034553,791862061,4071163871,47981717
-dimwishlist:item=2782847179&perks=3250034553,791862061,4071163871,588594999
+//notes: (PvP): Hammer-Forged/Smallbore - Accurized Rounds - Quickdraw/Threat Detector - Opening Shot/Moving Target; Masterwork: Range or Handling
 dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717
 dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,588594999
 dimwishlist:item=2782847179&perks=3250034553,3142289711,4071163871,47981717
 dimwishlist:item=2782847179&perks=3250034553,3142289711,4071163871,588594999
-dimwishlist:item=2782847179&perks=1482024992,791862061,706527188,47981717
-dimwishlist:item=2782847179&perks=1482024992,791862061,706527188,588594999
-dimwishlist:item=2782847179&perks=1482024992,791862061,4071163871,47981717
-dimwishlist:item=2782847179&perks=1482024992,791862061,4071163871,588594999
 dimwishlist:item=2782847179&perks=1482024992,3142289711,706527188,47981717
 dimwishlist:item=2782847179&perks=1482024992,3142289711,706527188,588594999
 dimwishlist:item=2782847179&perks=1482024992,3142289711,4071163871,47981717
 dimwishlist:item=2782847179&perks=1482024992,3142289711,4071163871,588594999
-dimwishlist:item=2782847179&perks=1840239774,791862061,706527188,47981717
-dimwishlist:item=2782847179&perks=1840239774,791862061,706527188,588594999
-dimwishlist:item=2782847179&perks=1840239774,791862061,4071163871,47981717
-dimwishlist:item=2782847179&perks=1840239774,791862061,4071163871,588594999
-dimwishlist:item=2782847179&perks=1840239774,3142289711,706527188,47981717
-dimwishlist:item=2782847179&perks=1840239774,3142289711,706527188,588594999
-dimwishlist:item=2782847179&perks=1840239774,3142289711,4071163871,47981717
-dimwishlist:item=2782847179&perks=1840239774,3142289711,4071163871,588594999
 //notes: (PvE): Fluted/Arrowhead - Assault/Tactical - Fourth Time's/Surplus - Swash/Rampage; Masterwork: Reload (Pre-WQ)
 dimwishlist:item=2782847179&perks=1840239774,791862061,1354429876,4082225868
 dimwishlist:item=2782847179&perks=1840239774,791862061,1354429876,3425386926
