@@ -1,4 +1,4 @@
-<-------------------------------------------------------------------------Season of The Worthy (S10)------------------------------------------------------------------------->
+<---------------------------------------------------------------------Season of The Worthy (S10)--------------------------------------------------------------------->
 // Seventh Seraph Carbine
 //notes: (PvP): Fluted/Arrowhead - High-Caliber/Ricochet - Slideshot/Threat Detector - Moving Target/Rangefinder; Masterwork: Stability or Handling
 dimwishlist:item=1561006927&perks=1840239774,1561002382,3161816588,588594999
@@ -504,10 +504,25 @@ dimwishlist:item=-2257180473
 
 
 // Jian 7 Rifle
-//notes: (PvP): SPO-57 - Ricochet - Firmly Planted/Disruption Break - Rangefinder; Masterwork: Stability or Handling
-dimwishlist:item=1162247618&perks=3151536501,1885400500,280464955,2846385770
-dimwishlist:item=1162247618&perks=3151536501,1885400500,1683379515,2846385770
-dimwishlist:item=1162247618&perks=3151536501,1885400500,2387244414,2846385770
+//notes: (PvP): SPO-26/SLO-10 - Ricochet/High-Caliber - Firmly Planted - Rangefinder/Rampage/Outlaw; Masterwork: Stability or Handling
+dimwishlist:item=1162247618&perks=3151536503,1885400500,280464955,2846385770
+dimwishlist:item=1162247618&perks=3151536503,1885400500,280464955,3425386926
+dimwishlist:item=1162247618&perks=3151536503,1885400500,280464955,1168162263
+dimwishlist:item=1162247618&perks=3151536503,1561002382,280464955,2846385770
+dimwishlist:item=1162247618&perks=3151536503,1561002382,280464955,3425386926
+dimwishlist:item=1162247618&perks=3151536503,1561002382,280464955,1168162263
+dimwishlist:item=1162247618&perks=965619223,1885400500,280464955,2846385770
+dimwishlist:item=1162247618&perks=965619223,1885400500,280464955,3425386926
+dimwishlist:item=1162247618&perks=965619223,1885400500,280464955,1168162263
+dimwishlist:item=1162247618&perks=965619223,1561002382,280464955,2846385770
+dimwishlist:item=1162247618&perks=965619223,1561002382,280464955,3425386926
+dimwishlist:item=1162247618&perks=965619223,1561002382,280464955,1168162263
+dimwishlist:item=1162247618&perks=965619220,1885400500,280464955,2846385770
+dimwishlist:item=1162247618&perks=965619220,1885400500,280464955,3425386926
+dimwishlist:item=1162247618&perks=965619220,1885400500,280464955,1168162263
+dimwishlist:item=1162247618&perks=965619220,1561002382,280464955,2846385770
+dimwishlist:item=1162247618&perks=965619220,1561002382,280464955,3425386926
+dimwishlist:item=1162247618&perks=965619220,1561002382,280464955,1168162263
 //notes: (PvE): SLO-12/SPO-57 - Armor-Piercing/Appended - Disruption Break/Graverobber - Rampage/Outlaw; Masterwork: Reload
 dimwishlist:item=1162247618&perks=965619221,1968497646,1683379515,3425386926
 dimwishlist:item=1162247618&perks=965619221,1968497646,1683379515,1168162263
