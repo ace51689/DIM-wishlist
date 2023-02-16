@@ -127,9 +127,6 @@ dimwishlist:item=-4146702548
 
 
 // Toil and Trouble
-//notes: (PvP): Full Choke - Accurized Rounds - Slideshot/Threat Detector - Snapshot Sights; Masterwork: Range
-dimwishlist:item=2957367743&perks=1047830412,3142289711,3161816588,957782887
-dimwishlist:item=2957367743&perks=1047830412,3142289711,4071163871,957782887
 //notes: (PvE): Barrel Shroud/Corkscrew - Tactical/Appended - Slideshot/Full-Auto - Auto-Loading/Rampage; Masterwork: Reload
 dimwishlist:item=2957367743&perks=1300023272,106909392,3161816588,3300816228
 dimwishlist:item=2957367743&perks=1300023272,106909392,3161816588,3425386926
