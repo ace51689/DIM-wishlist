@@ -1,8 +1,4 @@
 <---------------------------------------------------------------Beyond Light / Season of the Hunt (S12)-------------------------------------------------------------->
-// Adored
-dimwishlist:item=4184808992&perks=3400784728,1546637391
-
-
 // Avalanche
 //notes: (PvP): SPO-57/SPO-28 - Ricochet Rounds - Surplus - Tap the Trigger: Masterwork: Stability or Handling
 dimwishlist:item=66875353&perks=3151536501,1885400500,3436462433,1890422124
@@ -968,3 +964,7 @@ dimwishlist:item=1030895163&perks=839105230,689005463,1820235745,1427256713
 dimwishlist:item=1030895163&perks=839105230,689005463,3436462433,1427256713
 //notes: Junk
 dimwishlist:item=-1030895163
+
+
+// Adored
+dimwishlist:item=4184808992&perks=3400784728,1546637391
