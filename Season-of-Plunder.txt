@@ -1,4 +1,4 @@
-<----------------------------------------------------------------------Season of Plunder---------------------------------------------------------------------->
+<----------------------------------------------------------------------Season of Plunder (S18)---------------------------------------------------------------------->
 // Out of Bounds
 //notes: (PvP): Smallbore/Fluted - Ricochet/High-Caliber - Killing/Moving - Rangefinder/Kill Clip; Masterwork: Stability
 dimwishlist:item=2988121501&perks=1482024992,1885400500,2450788523,2846385770
@@ -836,3 +836,7 @@ dimwishlist:item=2218569744&perks=3661387068,106909392,1354429876,3038247973
 dimwishlist:item=2218569744&perks=3661387068,106909392,1354429876,2458213969
 //notes: Junk
 dimwishlist:item=-2218569744
+
+
+// Cry Mutiny
+dimwishlist:item=616582330&perks=4293542123,1546637391,744217850
