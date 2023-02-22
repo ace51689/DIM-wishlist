@@ -1,4 +1,4 @@
-<----------------------------------------------------------------------Season of the Haunted---------------------------------------------------------------------->
+<--------------------------------------------------------------------Season of the Haunted (S17) -------------------------------------------------------------------->
 // Lunulata-4b
 //notes: (PvP): Polymer/Natural - Fiberglass Arrow Shaft - Rangefinder - Successful Warm-Up; Masterwork: Draw Time or Accuracy
 dimwishlist:item=2513965917&perks=852209214,3429800428,2846385770,2652708987
@@ -1388,3 +1388,7 @@ dimwishlist:item=254636484&perks=2713678205,1087426260,1556840489,11612903
 dimwishlist:item=254636484&perks=2713678205,1087426260,1556840489,4104185692
 //notes: Junk
 dimwishlist:item=-254636484
+
+
+// Chain of Command
+dimwishlist:item=3105930175&perks=11612903,3523296417,744217850
