@@ -2216,3 +2216,7 @@ dimwishlist:item=-2782325301
 dimwishlist:item=2782325302&perks=3666208348,2349202967,2590710093,1546637391
 //notes: Junk
 dimwishlist:item=-2782325302
+
+
+// Null Composure
+dimwishlist:item=1644680957&perks=2779035018,1427256713
