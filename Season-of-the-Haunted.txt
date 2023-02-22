@@ -3,19 +3,8 @@
 //notes: (PvP): Polymer/Natural - Fiberglass Arrow Shaft - Rangefinder - Successful Warm-Up; Masterwork: Draw Time or Accuracy
 dimwishlist:item=2513965917&perks=852209214,3429800428,2846385770,2652708987
 dimwishlist:item=2513965917&perks=1784898267,3429800428,2846385770,2652708987
-//notes: (PvE): Polymer String - Fiberglass/Straight - Well-Rounded/Ensemble - Headstone/Adrenaline; Masterwork: Draw Time or Accuracy
+//notes: (PvE): --- GOD ROLL!!! --- Polymer String - Fiberglass Arrow Shaft - Well-Rounded - Headstone; Masterwork: Draw Time or Accuracy
 dimwishlist:item=2513965917&perks=852209214,3429800428,744594675,124408337
-dimwishlist:item=2513965917&perks=852209214,3429800428,744594675,11612903
-dimwishlist:item=2513965917&perks=852209214,3429800428,2621346526,124408337
-dimwishlist:item=2513965917&perks=852209214,3429800428,2621346526,11612903
-dimwishlist:item=2513965917&perks=852209214,3827198035,744594675,124408337
-dimwishlist:item=2513965917&perks=852209214,3827198035,744594675,11612903
-dimwishlist:item=2513965917&perks=852209214,3827198035,2621346526,124408337
-dimwishlist:item=2513965917&perks=852209214,3827198035,2621346526,11612903
-dimwishlist:item=2513965917&perks=852209214,3311977193,744594675,124408337
-dimwishlist:item=2513965917&perks=852209214,3311977193,744594675,11612903
-dimwishlist:item=2513965917&perks=852209214,3311977193,2621346526,124408337
-dimwishlist:item=2513965917&perks=852209214,3311977193,2621346526,11612903
 //notes: Junk
 dimwishlist:item=-2513965917
 
