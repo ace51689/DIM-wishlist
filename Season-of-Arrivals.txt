@@ -627,13 +627,11 @@ dimwishlist:item=-211938782
 
 
 // Cold Denial
-//notes: (PvP): Arrowhead - Ricochet Rounds - Killing Wind/Feeding Frenzy - Headseeker/Eye of The Storm; Masterwork: Stability or Handling
-dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080
-dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,699525795
-dimwishlist:item=1216130969&perks=839105230,1885400500,2779035018,460017080
-dimwishlist:item=1216130969&perks=839105230,1885400500,2779035018,699525795
+//notes: (PvP): Arrowhead Brake - Ricochet/High-Caliber - Zen/Killing Wind - Headseeker; Masterwork: Stability or Handling
 dimwishlist:item=1216130969&perks=839105230,1885400500,2387244414,460017080
-dimwishlist:item=1216130969&perks=839105230,1885400500,2387244414,699525795
+dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080
+dimwishlist:item=1216130969&perks=839105230,1561002382,2387244414,460017080
+dimwishlist:item=1216130969&perks=839105230,1561002382,2450788523,460017080
 //notes: (PvE): GOD ROLL!!! Arrowhead Brake - Armor-Piercing Rounds - Feeding Frenzy - Multikill Clip; Masterwork: Reload
 dimwishlist:item=1216130969&perks=839105230,1968497646,2779035018,2458213969
 //notes: Junk
