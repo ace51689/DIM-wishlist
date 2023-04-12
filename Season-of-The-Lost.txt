@@ -1081,11 +1081,15 @@ dimwishlist:item=-2496875173
 
 
 // Judgement
-//notes: (PvP): SteadyHand/Fastdraw - Accurized Rounds - Moving Target - Opening Shot/Timed Payload; Masterwork: Handling or Stability
+//notes: (PvP): Truesight/SteadyHand- Accurized Rounds - Moving Target/Encore - Opening Shot/Adrenaline; Masterwork: Handling or Range
+dimwishlist:item=1476654960&perks=1926090092,3142289711,588594999,47981717
+dimwishlist:item=1476654960&perks=1926090092,3142289711,588594999,11612903
+dimwishlist:item=1476654960&perks=1926090092,3142289711,1195158366,47981717
+dimwishlist:item=1476654960&perks=1926090092,3142289711,1195158366,11612903
 dimwishlist:item=1476654960&perks=1926090095,3142289711,588594999,47981717
-dimwishlist:item=1476654960&perks=1926090095,3142289711,588594999,1954620775
-dimwishlist:item=1476654960&perks=1926090094,3142289711,588594999,47981717
-dimwishlist:item=1476654960&perks=1926090094,3142289711,588594999,1954620775
+dimwishlist:item=1476654960&perks=1926090095,3142289711,588594999,11612903
+dimwishlist:item=1476654960&perks=1926090095,3142289711,1195158366,47981717
+dimwishlist:item=1476654960&perks=1926090095,3142289711,1195158366,11612903
 //notes: (PvE): Fastdraw/SteadyHand - Tactical/Appended - Demo/Encore - Timed Payload/Adrenaline; Masterwork: Reload
 dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,1954620775
 dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,11612903
