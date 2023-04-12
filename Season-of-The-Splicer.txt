@@ -2179,9 +2179,6 @@ dimwishlist:item=-3556999246
 
 
 // The Deicide
-//notes: (PvP): Full Choke - Accurized Rounds - Surplus - Elemental Capacitor/Demolitionist; Masterwork: Handling or Range
-dimwishlist:item=217140611&perks=1047830412,3142289711,3436462433,3523296417
-dimwishlist:item=217140611&perks=1047830412,3142289711,3436462433,3511092054
 //notes: (PvE): Barrel Shroud - Tactical Mag - Grave Robber - Vorpal/One-Two; Masterwork: Reload
 dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,1546637391
 dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,2679249093
