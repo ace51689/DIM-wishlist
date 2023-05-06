@@ -1,21 +1,4 @@
 <--------------------------------------------------------------Season of the Risen (S16) / Witch Queen-------------------------------------------------------------->
-// The Title
-//notes: (PvP): Hammer-Forged Rifling - Ricochet Rounds - Dynamic Sway - Moving Target/Swash; Masterwork: Stability or Handling
-dimwishlist:item=294129361&perks=3250034553,1885400500,1359896290,588594999
-dimwishlist:item=294129361&perks=3250034553,1840239774,1885400500,1359896290,4082225868
-//notes: (PvP): Dynamic Sway Reduction - Moving Target
-dimwishlist:item=294129361&perks=1359896290,588594999
-//notes: (PvE): Arrowhead/Fluted - Armor-Piercing Rounds - Stats for All/Threat Detector - One for All; Masterwork: Reload
-dimwishlist:item=294129361&perks=839105230,1968497646,1583705720,4049631843
-dimwishlist:item=294129361&perks=839105230,1968497646,4071163871,4049631843
-dimwishlist:item=294129361&perks=1840239774,1968497646,1583705720,4049631843
-dimwishlist:item=294129361&perks=1840239774,1968497646,4071163871,4049631843
-dimwishlist:item=294129361&perks=1482024992,1968497646,1583705720,4049631843
-dimwishlist:item=294129361&perks=1482024992,1968497646,4071163871,4049631843
-//notes: Junk
-dimwishlist:item=-294129361
-
-
 // Fugue-55
 //notes: (PvP): Fluted/Arrowhead - Accurized Rounds - No Distractions/Steady Hands - Moving Target; Masterwork: Handling or Range
 dimwishlist:item=2233545123&perks=1840239774,3142289711,2866798147,588594999
