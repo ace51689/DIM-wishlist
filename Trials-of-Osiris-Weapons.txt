@@ -1,4 +1,18 @@
 <---------------------------------------------------------------------Trials of Osiris Weapons---------------------------------------------------------------------->
+// Unwavering Duty
+//notes: (PvP): Fluted/Arrowhead - Extended Mag - Dynamic Sway Reduction - Tap the Trigger; Masterwork: Stability
+dimwishlist:item=906840740&perks=1840239774,2420895100,1359896290,1890422124
+dimwishlist:item=906840740&perks=839105230,2420895100,1359896290,1890422124
+dimwishlist:item=906840740&perks=3250034553,2420895100,1359896290,1890422124
+//notes: (PvE): Arrowhead/Corkscrew - Appended Mag - Subsistence/Ambitious Assassin - Incandescent; Masterwork: Reload
+dimwishlist:item=906840740&perks=839105230,1087426260,1820235745,4293542123
+dimwishlist:item=906840740&perks=839105230,1087426260,2010801679,4293542123
+dimwishlist:item=906840740&perks=4090651448,1087426260,1820235745,4293542123
+dimwishlist:item=906840740&perks=4090651448,1087426260,2010801679,4293542123
+//notes: Junk
+dimwishlist:item=-906840740
+
+
 // The Immortal
 //notes: (PvP): Smallbore - Ricochet Rounds - Rangefinder/Perpetual/Dynamic Sway/Surplus - Target Lock; Masterwork: Range or Stability
 dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,365154968
