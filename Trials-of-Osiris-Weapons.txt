@@ -1,5 +1,5 @@
 <---------------------------------------------------------------------Trials of Osiris Weapons---------------------------------------------------------------------->
-// Unwavering Duty
+// Unwavering Duty (S20)
 //notes: (PvP): Fluted/Arrowhead - Extended Mag - Dynamic Sway Reduction - Tap the Trigger; Masterwork: Stability
 dimwishlist:item=906840740&perks=1840239774,2420895100,1359896290,1890422124
 dimwishlist:item=906840740&perks=839105230,2420895100,1359896290,1890422124
@@ -11,6 +11,13 @@ dimwishlist:item=906840740&perks=4090651448,1087426260,1820235745,4293542123
 dimwishlist:item=906840740&perks=4090651448,1087426260,2010801679,4293542123
 //notes: Junk
 dimwishlist:item=-906840740
+
+
+// Unwavering Duty (S19)
+//notes: (PvE): Corkscrew Rifling - Appended Mag - Ambitious Assassin - Incandescent; Masterwork: Reload
+dimwishlist:item=3624844116&perks=4090651448,1087426260,2010801679,4293542123
+//notes: Junk
+dimwishlist:item=-3624844116
 
 
 // The Immortal
