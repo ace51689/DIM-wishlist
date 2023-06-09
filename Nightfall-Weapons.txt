@@ -1,4 +1,10 @@
 <--------------------------------------------------------------------Nightfall Exclusive Weapons-------------------------------------------------------------------->
+// Hung Jury SR4 (S20)
+//notes: (PvE): Arrowhead/Fluted - Appended Mag - Rapid Hit - Frenzy; Masterwork: Reload
+dimwishlist:item=3832743906&perks=839105230,1087426260,247725512,4104185692
+dimwishlist:item=3832743906&perks=1840239774,1087426260,247725512,4104185692
+
+
 // Wendigo GL3 (Adept)
 //notes: (PvP): Quick/Smart Drift - Proximity Grenades - Impulse Amplifier - Rangefinder/Explosive Light; Masterwork: Blast Radius
 dimwishlist:item=555148853&perks=3525010810,409831596,951095735,2846385770
@@ -1639,7 +1645,7 @@ dimwishlist:item=681067419&perks=839105230,3230963543,1820235745,4049631843
 dimwishlist:item=-681067419
 
 
-// Hung Jury SR4
+// Hung Jury SR4 (S14)
 //notes: (PvP): Fluted Barrel - Accurized Rounds - Moving Target/Rapid Hit/Heating Up - Explosive/Adrenaline/Box Breathing; Masterwork: Stability or Handling (Pre-WQ)
 dimwishlist:item=4281371574&perks=1840239774,3142289711,588594999,3038247973
 dimwishlist:item=4281371574&perks=1840239774,3142289711,588594999,11612903
