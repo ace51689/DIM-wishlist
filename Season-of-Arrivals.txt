@@ -416,6 +416,8 @@ dimwishlist:item=-2199171672
 
 
 // Last Perdition
+//notes: (PvP): SPO-57 Front - Steady Rounds - Rangefinder - Headseeker; Masterwork: Handling or Range
+dimwishlist:item=188882152&perks=3151536501,3177308360,2846385770,460017080
 //notes: (PvE): SLO-12/SPO-57 - Tactical/Appended - Outlaw/Grave Robber - Kill Clip/Rampage; Masterwork: Reload
 dimwishlist:item=-188882152&perks=965619221,106909392,1168162263,1015611457
 dimwishlist:item=-188882152&perks=965619221,106909392,1168162263,3425386926
