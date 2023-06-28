@@ -1588,13 +1588,12 @@ dimwishlist:item=-599895591
 
 
 // Survivor's Epitaph
-//notes: (PvP): Fluted Barrel - Ricochet/High-Caliber - Rapid Hit/Firmly Planted - Kill Clip; Masterwork: Handling or Stability
+//notes: (PvP): Fluted/Arrowhead - Ricochet/High-Caliber - Rapid Hit - Kill Clip; Masterwork: Range or Stability
 dimwishlist:item=310708513&perks=1840239774,1885400500,247725512,1015611457
-dimwishlist:item=310708513&perks=1840239774,1885400500,280464955,1015611457
-dimwishlist:item=310708513&perks=1840239774,1885400500,3436462433,1015611457
 dimwishlist:item=310708513&perks=1840239774,1561002382,247725512,1015611457
-dimwishlist:item=310708513&perks=1840239774,1561002382,280464955,1015611457
-dimwishlist:item=310708513&perks=1840239774,1561002382,3436462433,1015611457
+dimwishlist:item=310708513&perks=839105230,1885400500,247725512,1015611457
+dimwishlist:item=310708513&perks=839105230,1561002382,247725512,1015611457
+dimwishlist:item=310708513&perks=1467527085,1561002382,247725512,1015611457
 //notes: (PvE): Fluted/Smallbore - Appended/Extended - Rapid Hit/Feeding Frenzy - Frenzy/Kill Clip/Multikill; Masterwork: Reload
 dimwishlist:item=310708513&perks=1840239774,1087426260,247725512,4104185692
 dimwishlist:item=310708513&perks=1840239774,1087426260,247725512,1015611457
