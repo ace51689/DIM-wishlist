@@ -1225,9 +1225,8 @@ dimwishlist:item=3653573172&perks=3250034553,3142289711,588594999,47981717
 dimwishlist:item=3653573172&perks=3250034553,106909392,706527188,47981717
 dimwishlist:item=3653573172&perks=3250034553,106909392,588594999,47981717
 dimwishlist:item=3653573172&perks=1482024992,106909392,588594999,47981717
-//notes: (PvE): Arrowhead Brake - Tactical Mag - Rewind Rounds - High-Impact/Frenzy; Masterwork: Reload (Pre-WQ)
+//notes: (PvE): Arrowhead Brake - Tactical Mag - Rewind Rounds - High-Impact Reserves; Masterwork: Reload
 dimwishlist:item=3653573172&perks=839105230,106909392,3418782618,2213355989
-dimwishlist:item=3653573172&perks=839105230,106909392,3418782618,4104185692
 //notes: Junk
 dimwishlist:item=-3653573172
 
