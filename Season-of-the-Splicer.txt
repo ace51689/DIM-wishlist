@@ -2170,7 +2170,6 @@ dimwishlist:item=-3556999246
 //notes: (PvE): Barrel Shroud - Tactical Mag - Grave Robber - Vorpal/One-Two; Masterwork: Reload
 dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,1546637391
 dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,2679249093
-dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,3523296417
 //notes: Junk
 dimwishlist:item=-217140611
 
