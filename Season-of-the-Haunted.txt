@@ -414,15 +414,9 @@ dimwishlist:item=-2591241074
 // Beloved
 //notes: (PvP): --- GOD ROLL!!! --- Fluted Barrel - Ricochet Rounds - Snapshot - Moving Target; Masterwork: Handling
 dimwishlist:item=3107853529&perks=1840239774,1885400500,957782887,588594999
-//notes: (PvE): Fluted/Arrowhead - Light Mag - Fourth Time's/Surplus - Box Breathing/Incandescent; Masterwork: Reload
-dimwishlist:item=3107853529&perks=1840239774,679225683,1354429876,2551157718
-dimwishlist:item=3107853529&perks=1840239774,679225683,1354429876,4293542123
-dimwishlist:item=3107853529&perks=1840239774,679225683,3436462433,2551157718
-dimwishlist:item=3107853529&perks=1840239774,679225683,3436462433,4293542123
-dimwishlist:item=3107853529&perks=839105230,679225683,1354429876,2551157718
-dimwishlist:item=3107853529&perks=839105230,679225683,1354429876,4293542123
-dimwishlist:item=3107853529&perks=839105230,679225683,3436462433,2551157718
-dimwishlist:item=3107853529&perks=839105230,679225683,3436462433,4293542123
+//notes: (PvE): Arrowhead Brake - Appended Mag - Surplus - Incandescent/Rampage; Masterwork: Reload
+dimwishlist:item=3107853529&perks=839105230,1087426260,3436462433,4293542123
+dimwishlist:item=3107853529&perks=839105230,1087426260,3436462433,3425386926
 //notes: Junk
 dimwishlist:item=-3107853529
 
