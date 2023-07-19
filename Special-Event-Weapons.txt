@@ -400,6 +400,21 @@ dimwishlist:item=3573686365&perks=1840239774,3868766766,1820235745,1427256713
 dimwishlist:item=-3573686365
 
 
+// Glacioclasm (S12)
+//notes: (PvP): Fluted Barrel - Accelerated/Particle Repeater - Under Pressure/Surplus - High-Impact Reserves
+dimwishlist:item=1030895163&perks=1840239774,689005463,1645158859,2213355989
+dimwishlist:item=1030895163&perks=1840239774,689005463,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,689005463,3161816588,2213355989
+dimwishlist:item=1030895163&perks=1840239774,3868766766,1645158859,2213355989
+dimwishlist:item=1030895163&perks=1840239774,3868766766,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,3868766766,3161816588,2213355989
+//notes: (PvE): Arrowhead Brake - Accelerated Coils - Subsistence/Surplus - Reservoir Burst; Masterwork: Reload
+dimwishlist:item=1030895163&perks=839105230,689005463,1820235745,1427256713
+dimwishlist:item=1030895163&perks=839105230,689005463,3436462433,1427256713
+//notes: Junk
+dimwishlist:item=-1030895163
+
+
 // Stay Frosty
 //notes: (PvP): Arrowhead - Ricochet - Encore/Tunnel Vision - Headseaker/Headstone (Revisit this for FoTL 2023)
 dimwishlist:item=2812100428&perks=839105230,1885400500,2946784966,460017080
