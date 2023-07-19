@@ -381,6 +381,25 @@ dimwishlist:item=-3829285960
 
 
 <------------------------------------------------The Dawning----------------------------------------------->
+// Glacioclasm (S19)
+//notes: (PvP): Arrowhead/Fluted - Accelerated/Particle - Under Pressure - High-Impact/Eye; Masterwork: Stability or Handling
+dimwishlist:item=3573686365&perks=839105230,689005463,1645158859,2213355989
+dimwishlist:item=3573686365&perks=839105230,689005463,1645158859,699525795
+dimwishlist:item=3573686365&perks=839105230,3868766766,1645158859,2213355989
+dimwishlist:item=3573686365&perks=839105230,3868766766,1645158859,699525795
+dimwishlist:item=3573686365&perks=1840239774,689005463,1645158859,2213355989
+dimwishlist:item=3573686365&perks=1840239774,689005463,1645158859,699525795
+dimwishlist:item=3573686365&perks=1840239774,3868766766,1645158859,2213355989
+dimwishlist:item=3573686365&perks=1840239774,3868766766,1645158859,699525795
+//notes: (PvE): Arrowhead/Fluted - Accelerated/Particle - Subsistence - Reservoir Burst; Masterwork: Handling or Reload
+dimwishlist:item=3573686365&perks=839105230,689005463,1820235745,1427256713
+dimwishlist:item=3573686365&perks=839105230,3868766766,1820235745,1427256713
+dimwishlist:item=3573686365&perks=1840239774,689005463,1820235745,1427256713
+dimwishlist:item=3573686365&perks=1840239774,3868766766,1820235745,1427256713
+//notes: Junk
+dimwishlist:item=-3573686365
+
+
 // Stay Frosty
 //notes: (PvP): Arrowhead - Ricochet - Encore/Tunnel Vision - Headseaker/Headstone (Revisit this for FoTL 2023)
 dimwishlist:item=2812100428&perks=839105230,1885400500,2946784966,460017080
