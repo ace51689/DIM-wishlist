@@ -1,4 +1,27 @@
 <------------------------------------------------------------------------Iron Banner Weapons------------------------------------------------------------------------>
+// Jorum's Claw
+//notes: (PvP): Arrowhead Brake - Ricochet/High-Caliber - Moving Target - Headseeker/Kill Clip; Masterwork: Stability or Range
+dimwishlist:item=62937067&perks=839105230,1885400500,588594999,460017080
+dimwishlist:item=62937067&perks=839105230,1885400500,588594999,1015611457
+dimwishlist:item=62937067&perks=839105230,1561002382,588594999,460017080
+dimwishlist:item=62937067&perks=839105230,1561002382,588594999,1015611457
+//notes: (PvP): Arrowhead Brake - Ricochet/High-Caliber - Iron Grip - Headseeker; Masterwork: Range or Handling
+dimwishlist:item=62937067&perks=839105230,1885400500,11551321,460017080
+dimwishlist:item=62937067&perks=839105230,1561002382,11551321,460017080
+//notes: (PvE): Arrowhead Brake - Appended/Armor-Piercing - Outlaw - Frenzy/Tricorn; Masterwork: Reload
+dimwishlist:item=62937067&perks=839105230,1087426260,1168162263,4104185692
+dimwishlist:item=62937067&perks=839105230,1087426260,1168162263,2610012052
+dimwishlist:item=62937067&perks=839105230,1087426260,1168162263,4293542123
+dimwishlist:item=62937067&perks=839105230,1968497646,1168162263,4104185692
+dimwishlist:item=62937067&perks=839105230,1968497646,1168162263,2610012052
+dimwishlist:item=62937067&perks=839105230,1968497646,1168162263,4293542123
+dimwishlist:item=62937067&perks=839105230,3230963543,1168162263,4104185692
+dimwishlist:item=62937067&perks=839105230,3230963543,1168162263,2610012052
+dimwishlist:item=62937067&perks=839105230,3230963543,1168162263,4293542123
+//notes: Junk
+dimwishlist:item=-62937067
+
+
 // Gunnora's Axe (S20)
 //notes: (PvP): Hammer-Forged/Smallbore - Ricochet/High-Caliber - Moving Target - Opening/Eye; Masterwork: Handling or Range
 dimwishlist:item=411397829&perks=3250034553,1885400500,588594999,699525795
