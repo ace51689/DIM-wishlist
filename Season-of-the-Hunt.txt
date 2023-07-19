@@ -952,20 +952,5 @@ dimwishlist:item=3856705927&perks=1482024992,1431678320,3436462433,1012699414
 dimwishlist:item=-3856705927
 
 
-// Glacioclasm
-//notes: (PvP): Fluted Barrel - Accelerated/Particle Repeater - Under Pressure/Surplus - High-Impact Reserves
-dimwishlist:item=1030895163&perks=1840239774,689005463,1645158859,2213355989
-dimwishlist:item=1030895163&perks=1840239774,689005463,3436462433,2213355989
-dimwishlist:item=1030895163&perks=1840239774,689005463,3161816588,2213355989
-dimwishlist:item=1030895163&perks=1840239774,3868766766,1645158859,2213355989
-dimwishlist:item=1030895163&perks=1840239774,3868766766,3436462433,2213355989
-dimwishlist:item=1030895163&perks=1840239774,3868766766,3161816588,2213355989
-//notes: (PvE): Arrowhead Brake - Accelerated Coils - Subsistence/Surplus - Reservoir Burst; Masterwork: Reload
-dimwishlist:item=1030895163&perks=839105230,689005463,1820235745,1427256713
-dimwishlist:item=1030895163&perks=839105230,689005463,3436462433,1427256713
-//notes: Junk
-dimwishlist:item=-1030895163
-
-
 // Adored
 dimwishlist:item=4184808992&perks=3400784728,1546637391
