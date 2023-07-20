@@ -1,4 +1,8 @@
 <------------------------------------------------------------Season of the Deep (S21)------------------------------------------------------------>
+// Last Rite
+dimwishlist:item=542573208&perks=1523832109,2896038713,744217850
+
+
 // Until Its Return
 //notes: (PvP): Shroud/Corkscrew - Accurized Rounds - Threat/Well-Rounded - Harmony/Collective; Masterwork: Handling
 dimwishlist:item=2883484461&perks=1300023272,3142289711,4071163871,438098033
