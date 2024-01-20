@@ -1,0 +1,42 @@
+<------------------------------------------------------------------------------------------------------------------------Season of The Wish (S23)------------------------------------------------------------------------------------------------------------------------>
+// Retrofuturist (PvE)
+//notes:PvP- Small/Shroud/Cork - Accurized/Assault - Slick/Quick - Snap/Vorpal; Masterwork: Range
+dimwishlist:item=1612781792&perks=,1821614984,957782887
+dimwishlist:item=1612781792&perks=,1821614984,1546637391
+dimwishlist:item=1612781792&perks=,706527188,957782887
+dimwishlist:item=1612781792&perks=,706527188,1546637391
+dimwishlist:item=1612781792&perks=,1866048759,957782887
+dimwishlist:item=1612781792&perks=,1866048759,1546637391
+//notes:PvE- Shroud/Cork/Small - Assault/Appended/Tactical - Auto/Feeding - Vorpal/Destabilizing; Masterwork: Reload
+dimwishlist:item=1612781792&perks=,3300816228,1546637391
+dimwishlist:item=1612781792&perks=,3300816228,2048641572
+dimwishlist:item=1612781792&perks=,3300816228,2360754333
+dimwishlist:item=1612781792&perks=,2779035018,1546637391
+dimwishlist:item=1612781792&perks=,2779035018,2048641572
+dimwishlist:item=1612781792&perks=,2779035018,2360754333
+dimwishlist:item=1612781792&perks=,691659142,1546637391
+dimwishlist:item=1612781792&perks=,691659142,2048641572
+dimwishlist:item=1612781792&perks=,691659142,2360754333
+//notes: Junk
+dimwishlist:item=-1612781792
+
+
+// Tigerspite (PvP)
+//notes:PvP- Arrow/Hammer/Small - Ricochet/High-Caliber - Fragile/MT/Overflow - Kill Clip/EotS; Masterwork: Range
+dimwishlist:item=2465372924&perks=,2451262963,1015611457
+dimwishlist:item=2465372924&perks=,2451262963,699525795
+dimwishlist:item=2465372924&perks=,588594999,1015611457
+dimwishlist:item=2465372924&perks=,588594999,699525795
+dimwishlist:item=2465372924&perks=,3643424744,1015611457
+dimwishlist:item=2465372924&perks=,3643424744,699525795
+//notes:PvE- Arrowhead/Small/Cork - Appended/Armor-Piercing/Flared - Outlaw/Subsis/Overflow - Kinetic/Frenzy/Kill Clip
+dimwishlist:item=2465372924&perks=,1168162263,3891536761
+dimwishlist:item=2465372924&perks=,1168162263,4104185692
+dimwishlist:item=2465372924&perks=,1168162263,1015611457
+dimwishlist:item=2465372924&perks=,1820235745,3891536761
+dimwishlist:item=2465372924&perks=,1820235745,4104185692
+dimwishlist:item=2465372924&perks=,3643424744,3891536761
+dimwishlist:item=2465372924&perks=,3643424744,4104185692
+//notes: Junk
+dimwishlist:item=-2465372924
+
