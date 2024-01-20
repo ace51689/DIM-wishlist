@@ -1,6 +1,20 @@
 <------------------------------------------------------------Season of the Deep (S21)------------------------------------------------------------>
 // Combined Action
-dimwishlist:item=1331824604#notes:Small/Fluted - Appended/Accurized - Zen/Eddy/Tunnel - Volt/Timed/Kill/Adagio; Masterwork: Reload/Stability 
+//notes:PvP- Smallbore/Fluted - Accurized/Steady - Zen/Tunnel - Adagio/Kill/Timed; Masterwork: Stability
+dimwishlist:item=1331824604&perks=,2387244414,3673922083
+dimwishlist:item=1331824604&perks=,2387244414,1015611457
+dimwishlist:item=1331824604&perks=,2387244414,1954620775
+dimwishlist:item=1331824604&perks=,2946784966,3673922083
+dimwishlist:item=1331824604&perks=,2946784966,1954620775
+dimwishlist:item=1331824604&perks=,2946784966,1015611457
+//notes:PvE- Smallbore/Fluted - Appended/Flared/Tactical - Zen/Eddy - Voltshot/Timed; Masterwork: Reload
+dimwishlist:item=1331824604&perks=,2387244414,2173046394
+dimwishlist:item=1331824604&perks=,2387244414,1954620775
+dimwishlist:item=1331824604&perks=,684456054,2173046394
+dimwishlist:item=1331824604&perks=,684456054,1954620775
+//notes: Junk
+dimwishlist:item=-1331824604
+
 
 // Until Its Return
 //notes: (PvP): Shroud/Corkscrew - Accurized Rounds - Threat/Well-Rounded - Harmony/Collective; Masterwork: Handling
