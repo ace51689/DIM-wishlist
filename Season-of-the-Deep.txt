@@ -1,7 +1,6 @@
 <------------------------------------------------------------Season of the Deep (S21)------------------------------------------------------------>
 // Combined Action
-// notes: Small/Fluted - Appended/Accurized - Zen/Eddy/Tunnel - Volt/Timed/Kill/Adagio; Masterwork: Reload/Stability 
-dimwishlist:item=1331824604
+dimwishlist:item=1331824604#notes:Small/Fluted - Appended/Accurized - Zen/Eddy/Tunnel - Volt/Timed/Kill/Adagio; Masterwork: Reload/Stability 
 
 // Until Its Return
 //notes: (PvP): Shroud/Corkscrew - Accurized Rounds - Threat/Well-Rounded - Harmony/Collective; Masterwork: Handling
