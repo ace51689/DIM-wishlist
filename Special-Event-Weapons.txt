@@ -336,7 +336,22 @@ dimwishlist:item=1280894514&perks=839105230,1087426260,3400784728,1546637391
 dimwishlist:item=-1280894514
 
 
-// Jurassic Green
+// Jurassic Green (S22)
+//notes:PvP- Arrowhead/Chambered - Flared/Accurized/Tactical - Keep Away/Killing - Headseeker/Encore; Masterwork: Stability/Range
+dimwishlist:item=3103255595&perks=,3619207468,460017080
+dimwishlist:item=3103255595&perks=,3619207468,1195158366
+dimwishlist:item=3103255595&perks=,2450788523,460017080
+dimwishlist:item=3103255595&perks=,2450788523,1195158366
+//notes:PvE- Arrowhead/Fluted - Tactical/Flared/Appended - Keep Away/Perpetual - Tricorn/Collective; Masterwork: Stability/Handling
+dimwishlist:item=3103255595&perks=,1428297954,2610012052
+dimwishlist:item=3103255595&perks=,1428297954,3324494224
+dimwishlist:item=3103255595&perks=,3619207468,2610012052
+dimwishlist:item=3103255595&perks=,3619207468,3324494224
+//notes: Junk
+dimwishlist:item=-3103255595
+
+
+// Jurassic Green (S18)
 //notes: (PvP): Arrowhead Brake - Ricochet/High-Caliber - Rangefinder/Perpetual - Adrenaline; Masterwork: Stability or Handling
 dimwishlist:item=2603335652&perks=839105230,1885400500,2846385770,11612903
 dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,11612903
