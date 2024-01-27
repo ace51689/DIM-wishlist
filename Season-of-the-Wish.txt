@@ -1,5 +1,25 @@
 <------------------------------------------------------------------------------------------------------------------------Season of The Wish (S23)------------------------------------------------------------------------------------------------------------------------>
-// Retrofuturist (PvE)
+// Abide the Return
+//notes:PvP- Jagged/Honed - Swordmaster/Burst - Tireless Blade - Valiant Charge; Masterwork: Impact
+dimwishlist:item=250721843&perks=3666208348,269888150,2590710093,4274614370
+dimwishlist:item=250721843&perks=3666208348,3625355092,2590710093,4274614370
+dimwishlist:item=250721843&perks=2827049491,269888150,2590710093,4274614370
+dimwishlist:item=250721843&perks=2827049491,3625355092,2590710093,4274614370
+//notes:PvE- Jagged/Honed - Swordmaster/Burst - Relentless/Dueliest's - Valiant/Incandescent; Masterwork: Impact
+dimwishlist:item=250721843&perks=,1749209109,4274614370
+dimwishlist:item=250721843&perks=,1749209109,4293542123
+dimwishlist:item=250721843&perks=,1749209109,3913600130
+dimwishlist:item=250721843&perks=,3705817207,4274614370
+dimwishlist:item=250721843&perks=,3705817207,4293542123
+dimwishlist:item=250721843&perks=,3705817207,3913600130
+dimwishlist:item=250721843&perks=,2030760728,4274614370
+dimwishlist:item=250721843&perks=,2030760728,4293542123
+dimwishlist:item=250721843&perks=,2030760728,3913600130
+//notes: Junk
+dimwishlist:item=-250721843
+
+
+// Retrofuturist
 //notes:PvP- Small/Shroud/Cork - Accurized/Assault - Slick/Quick - Snap/Vorpal; Masterwork: Range
 dimwishlist:item=1612781792&perks=,1821614984,957782887
 dimwishlist:item=1612781792&perks=,1821614984,1546637391
@@ -21,7 +41,7 @@ dimwishlist:item=1612781792&perks=,691659142,2360754333
 dimwishlist:item=-1612781792
 
 
-// Tigerspite (PvP)
+// Tigerspite
 //notes:PvP- Arrow/Hammer/Small - Ricochet/High-Caliber - Fragile/MT/Overflow - Kill Clip/EotS; Masterwork: Range
 dimwishlist:item=2465372924&perks=,2451262963,1015611457
 dimwishlist:item=2465372924&perks=,2451262963,699525795
