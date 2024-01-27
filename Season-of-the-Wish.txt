@@ -1,4 +1,29 @@
 <------------------------------------------------------------------------------------------------------------------------Season of The Wish (S23)------------------------------------------------------------------------------------------------------------------------>
+// Appetence
+//notes:PvP- Hammer-Forged/Smallbore - Projection/Tactical - Enlightened/Demo - Headstone/Killing; Masterwork: Range
+dimwishlist:item=4153087276&perks=,3828510309,124408337
+dimwishlist:item=4153087276&perks=,3828510309,557221067
+dimwishlist:item=4153087276&perks=,3828510309,3592538738
+dimwishlist:item=4153087276&perks=,3523296417,124408337
+dimwishlist:item=4153087276&perks=,3523296417,557221067
+dimwishlist:item=4153087276&perks=,3523296417,3592538738
+dimwishlist:item=4153087276&perks=,3643424744,124408337
+dimwishlist:item=4153087276&perks=,3643424744,557221067
+dimwishlist:item=4153087276&perks=,3643424744,3592538738
+//notes:PvE- Fluted/Smallbore - Tactical/Enhanced - Overflow/Clown - Killing/Headstone; Masterwork: Reload
+dimwishlist:item=4153087276&perks=,3643424744,557221067
+dimwishlist:item=4153087276&perks=,3643424744,124408337
+dimwishlist:item=4153087276&perks=,3643424744,4049631843
+dimwishlist:item=4153087276&perks=,2284787283,557221067
+dimwishlist:item=4153087276&perks=,2284787283,124408337
+dimwishlist:item=4153087276&perks=,2284787283,4049631843
+dimwishlist:item=4153087276&perks=,3523296417,557221067
+dimwishlist:item=4153087276&perks=,3523296417,124408337
+dimwishlist:item=4153087276&perks=,3523296417,4049631843
+//notes: Junk
+dimwishlist:item=-4153087276
+
+
 // Abide the Return
 //notes:PvP- Jagged/Honed - Swordmaster/Burst - Tireless Blade - Valiant Charge; Masterwork: Impact
 dimwishlist:item=250721843&perks=3666208348,269888150,2590710093,4274614370
