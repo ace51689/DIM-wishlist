@@ -1,0 +1,14 @@
+<----------------------------------------------------------------------------------------------------Season of the Witch---------------------------------------------------------------------------------------------------->
+// Nox Perennial V (PvP)
+//notes:PvP- Arrowhead/Small - Projection/Particle - Fragile/Under - Elemental/Kickstart; Matserwork: Range or Stability
+dimwishlist:item=2767393525&perks=,2451262963,3511092054
+dimwishlist:item=2767393525&perks=,2451262963,1754714824
+dimwishlist:item=2767393525&perks=,1645158859,3511092054
+dimwishlist:item=2767393525&perks=,1645158859,1754714824
+//notes:PvE- Arrowhead/Smallbore - Accelerated/Enhanced/Ionized - Assassin/Lead - Controlled/Hatchling; Masterwork: Charge Time
+dimwishlist:item=2767393525&perks=,968510818,2594592626
+dimwishlist:item=2767393525&perks=,968510818,831391274
+dimwishlist:item=2767393525&perks=,1556840489,2594592626
+dimwishlist:item=2767393525&perks=,1556840489,831391274
+//notes: Junk
+dimwishlist:item=-2767393525
