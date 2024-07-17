@@ -20,8 +20,14 @@ dimwishlist:item=266021826&perks=3573490510,3573490506
 dimwishlist:item=266021826&perks=1476923954,3573490501
 //notes: CREST OF HOARFROST aka ALPHA LUPI-Z
 dimwishlist:item=266021826&perks=3573490508,3573490501
-//notes: OPHIDIAN ARMAMENTARIUM
+//notes: OPHIDIAN ARMAMENTARIUM aka OPHIDIANTARIUM
 dimwishlist:item=266021826&perks=1476923954,3573490500
+//notes: ABEYANT CONTACT
+dimwishlist:item=266021826&perks=3573490510,3573490504
+//notes ASSASSIN'S CONTACT aka ASS CONTACT
+dimwishlist:item=266021826&perks=1476923952,3573490504
+//notes: ASSASSIN'S SCARS
+dimwishlist:item=266021826&perks=1476923952,3573490507
 
 
 # RELATIVISM--------------------------------------------------------->
