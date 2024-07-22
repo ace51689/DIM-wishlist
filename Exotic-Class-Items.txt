@@ -28,6 +28,8 @@ dimwishlist:item=266021826&perks=3573490510,3573490504
 dimwishlist:item=266021826&perks=1476923952,3573490504
 //notes: ASSASSIN'S SCARS
 dimwishlist:item=266021826&perks=1476923952,3573490507
+//notes: SEVEROCEPS
+dimwishlist:item=266021826&perks=3573490509,1476923956
 
 
 # RELATIVISM--------------------------------------------------------->
