@@ -1,4 +1,12 @@
 <--------------------------------------------------Episode: Echoes-------------------------------------------------->
+//Ergo Sum (Season 24)
+//notes: (PvE): GOD ROLL!!! The Perfect Fifth - Jagged Blade - Swordmaster's Guard - Caster Frame 
+dimwishlist:item=1681583613&perks=3666208348,269888150,519046634,1522566605
+//notes: (PvE): Jagged - Swordmaster's - Light/Wave Frame - Pack Hunter
+dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,1959135343
+dimwishlist:item=1681583613&perks=3666208348,269888150,289811733,1959135343
+
+
 //Pro Memoria (Season 24)
 //notes: (PvE): Arrowhead Brake - Appended Mag - Reconstruct/Envious - Bait/Lock/Frenzy; Masterwork: Handling
 dimwishlist:item=3605603507&perks=839105230,1087426260,1523832109,3078487919 
