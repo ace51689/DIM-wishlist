@@ -2,10 +2,21 @@
 //Ergo Sum (Season 24)
 //notes: (PvE): GOD ROLL!!! The Perfect Fifth - Jagged Blade - Swordmaster's Guard - Caster Frame 
 dimwishlist:item=1681583613&perks=3666208348,269888150,519046634,1522566605
-//notes: (PvE): Jagged - Swordmaster's - Light/Wave Frame - Pack Hunter
+//notes: (PvE): Pack Hunter - Jagged - Swordmaster's - Light/Wave Frame 
 dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,1959135343
 dimwishlist:item=1681583613&perks=3666208348,269888150,289811733,1959135343
-dimwishlist:item=1681583613&perks=1959135343
+dimwishlist:item=1681583613&perks=3666208348,269888150,1726251414,1959135343
+//notes: (PvE): Arc Conductor - Hungry/Tempered - Swordmaster's - Lightweight Frame
+dimwishlist:item=1681583613&perks=436053704,269888150,2753228730,3949068808
+dimwishlist:item=1681583613&perks=938542991,269888150,2753228730,3949068808
+//notes: (PvE): Unplanned Repreve - Hungry/Tempered - Swordmaster's - Lightweight Frame
+dimwishlist:item=1681583613&perks=436053704,269888150,2753228730,1327961177
+dimwishlist:item=1681583613&perks=938542991,269888150,2753228730,1327961177
+//notes: (PvE): Sacred Flame - Hungry/Tempered - Swordmaster's - Lightweight Frame
+dimwishlist:item=1681583613&perks=436053704,269888150,2753228730,3034060702
+dimwishlist:item=1681583613&perks=938542991,269888150,2753228730,3034060702
+//notes: Junk
+dimwishlist:item=-1681583613
 
 
 //Pro Memoria (Season 24)
