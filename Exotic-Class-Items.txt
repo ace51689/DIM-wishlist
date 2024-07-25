@@ -44,6 +44,8 @@ dimwishlist:item=266021826&perks=3573490508,3573490506
 # Eternal Warrior ----------------------------------------------------->
 //notes: Eternal Warrior + Star-Eater [ETERNAL STARS]
 dimwishlist:item=266021826&perks=3573490511,1476923955
+//notes: TEMPORARY!!! DELETE WHEN WE HAVE ETERNAL + STARS
+dimwishlist:item=266021826&perks=3573490511,1476923956
 //notes: Eternal Warrior + Scars [ETERNAL SCARS]
 dimwishlist:item=266021826&perks=3573490511,3573490507
 
