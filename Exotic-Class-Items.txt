@@ -1,38 +1,79 @@
-# STOICISM----------------------------------------------------------->
-//Stoicism (Echoes)
-//notes: SYNTH-MOST-CEPS
-dimwishlist:item=266021826&perks=1476923953,1476923956
-//notes: SEVER ALL CONTACT
-dimwishlist:item=266021826&perks=3573490509,3573490504
-//notes: BEARMENTARIUM
-dimwishlist:item=266021826&perks=3573490505,3573490500
-//notes: SYNTHOSASSIN
+# <-------------------------------------------------------------STOICISM------------------------------------------------------------->
+# Assassin's ---------------------------------------------------------->
+//notes: Assassin + Synthoceps [SYNTHOSASSIN]
 dimwishlist:item=266021826&perks=1476923952,1476923956
-//notes: ETERNAL STAR
-dimwishlist:item=266021826&perks=3573490511,1476923955
-//notes: OPHIDIAN SCARS aka PRECIOUS OPHIDIAN aka SCARPHIDIAN
-dimwishlist:item=266021826&perks=1476923954,3573490507
-//notes: SYNTHOPHIDIAN
-dimwishlist:item=266021826&perks=1476923954,1476923956
-//notes: KHEPRI'S LEAP
-dimwishlist:item=266021826&perks=3573490510,3573490506
-//notes: ALPHA OPHIDIAN aka ALPHIDIAN
-dimwishlist:item=266021826&perks=1476923954,3573490501
-//notes: CREST OF HOARFROST aka ALPHA LUPI-Z
-dimwishlist:item=266021826&perks=3573490508,3573490501
-//notes: OPHIDIAN ARMAMENTARIUM aka OPHIDIANTARIUM
-dimwishlist:item=266021826&perks=1476923954,3573490500
-//notes: ABEYANT CONTACT
-dimwishlist:item=266021826&perks=3573490510,3573490504
-//notes ASSASSIN'S CONTACT aka ASS CONTACT
+//notes Assassin + Contact [ASSASSIN'S CONTACT aka ASS CONTACT]
 dimwishlist:item=266021826&perks=1476923952,3573490504
-//notes: ASSASSIN'S SCARS
+//notes: Assassin's + Scars [ASSASSIN'S SCARS]
 dimwishlist:item=266021826&perks=1476923952,3573490507
-//notes: SEVEROCEPS
+
+# Inmost Light -------------------------------------------------------->
+//notes: Inmost Light + Star-Eater [LIGHTEATERS]
+dimwishlist:item=266021826&perks=1476923953,1476923955
+//notes: Inmost Light + Synthoceps [SYNTH-MOST-CEPS]
+dimwishlist:item=266021826&perks=1476923953,1476923956
+//notes: Inmost Light + Contact [LIGHT CONTACT CANNON]
+dimwishlist:item=266021826&perks=1476923953,3573490504
+//notes: Inmost Light + Horn [KHEPRI'S LIGHT]
+dimwishlist:item=266021826&perks=1476923953,3573490506
+//notes: Inmost Light + Armamentarium [INMOST ARMAMENT]
+dimwishlist:item=266021826&perks=1476923953,3573490500
+
+# Ophidian ------------------------------------------------------------>
+//notes: Ophidian + Synthoceps [SYNTHOPHIDIAN]
+dimwishlist:item=266021826&perks=1476923954,1476923956
+//notes: Ophidian + Contact [OPHIDIAN BRACE]
+dimwishlist:item=266021826&perks=1476923954,3573490504
+//notes: Ophidian + Scars [OPHIDIAN SCARS aka PRECIOUS OPHIDIAN aka SCARPHIDIAN]
+dimwishlist:item=266021826&perks=1476923954,3573490507
+//notes: Ophidian + Alpha Lupi [ALPHA OPHIDIAN aka ALPHIDIAN]
+dimwishlist:item=266021826&perks=1476923954,3573490501
+//notes: Ophidian + Armamentarium [OPHIDIAN ARMAMENTARIUM aka OPHIDIANTARIUM]
+dimwishlist:item=266021826&perks=1476923954,3573490500
+
+# Severance ----------------------------------------------------------->
+//notes: Severance + Synthoceps [SEVEROCEPS]
 dimwishlist:item=266021826&perks=3573490509,1476923956
+//notes: Severance + Contact [SEVER ALL CONTACT]
+dimwishlist:item=266021826&perks=3573490509,3573490504
+
+# Hoarfrost ----------------------------------------------------------->
+//notes: Hoarfrost + Horn [HORNFROST]
+dimwishlist:item=266021826&perks=3573490508,3573490506
+
+# Eternal Warrior ----------------------------------------------------->
+//notes: Eternal Warrior + Star-Eater [ETERNAL STARS]
+dimwishlist:item=266021826&perks=3573490511,1476923955
+//notes: Eternal Warrior + Scars [ETERNAL SCARS]
+dimwishlist:item=266021826&perks=3573490511,3573490507
+
+# Abeyant ------------------------------------------------------------->
+//notes: Abeyant + Synthoceps [ABEYTHOCEPS aka SYNTHOLEAP]
+dimwishlist:item=266021826&perks=3573490510,1476923956
+//notes: Abeyant + Contact [ABEYANT CONTACT]
+dimwishlist:item=266021826&perks=3573490510,3573490504
+//notes: Abeyant + Horn [KHEPRI'S LEAP aka ABEYANT HORN]
+dimwishlist:item=266021826&perks=3573490510,3573490506
+//notes: Abeyant + Armamentarium [ABEYAMENTARIUM]
+dimwishlist:item=266021826&perks=3573490510,3573490500
+
+# Bear ---------------------------------------------------------------->
+//notes: Bear + Synthoceps [BEARTHOCEPS]
+dimwishlist:item=266021826&perks=3573490505,1476923956
+//notes: Bear + Contact [URSA CANNON BRACE]
+dimwishlist:item=266021826&perks=3573490505,3573490504
+//notes: Bear + Scars [SCAR OF THE BEAR]
+dimwishlist:item=266021826&perks=3573490505,3573490507
+//notes: Bear + Alpha Lupi [ALPHA BEAR]
+dimwishlist:item=266021826&perks=3573490505,3573490501
+//notes: Bear + Armamentarium [BEARMENTARIUM]
+dimwishlist:item=266021826&perks=3573490505,3573490500
+
+# Junk ---------------------------------------------------------------->
+dimwishlist:item=-266021826
 
 
-# RELATIVISM--------------------------------------------------------->
+# <-------------------------------------------------------------RELATIVISM------------------------------------------------------------->
 
 
-# SOLIPSISM---------------------------------------------------------->
+# <--------------------------------------------------------------SOLIPSISM------------------------------------------------------------->
