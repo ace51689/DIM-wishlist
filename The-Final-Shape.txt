@@ -1,4 +1,4 @@
-<--------------------------------------------------Episode: Echoes-------------------------------------------------->
+<-----------------------------------------------------------Episode: Revenant----------------------------------------------------------->
 //Exuviae (Season 25)
 //notes: (PvP): (Early Impressions): Stability w/o nerfing Range OR push Range/Handling with Keep/Lone/Encore/Pain and Precision/Explosive
 dimwishlist:item=2823644677&perks=1482024992,3177308360,3619207468,555281244 
@@ -92,6 +92,8 @@ dimwishlist:item=2823644677&perks=1482024992,106909392,1955165503,124408337
 dimwishlist:item=-2823644677
 
 
+
+<------------------------------------------------------------Episode: Echoes------------------------------------------------------------>
 //Perfect Paradox (Season 24)
 //notes: (PvP): Shroud/Cork/Small - Accurized Rounds - Slide/Detector - Opening/Constrictor; Masterwork: Range or Handling
 dimwishlist:item=1298672084&perks=1300023272,3142289711,3161816588,47981717 
