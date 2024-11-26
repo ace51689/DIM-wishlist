@@ -1102,9 +1102,8 @@ dimwishlist:item=-1141547457
 
 
 //Peacebond (Season 16)
-//notes: (PvP): Iron Reach with: Poly/Small/Cork/Fluted - Accurized - Perpet/Killing and Stability Masterwork 
-OR 
-Swashbuckler with Hammer/Small/Cork - Accurized - Killing/Pepet and Range Masterwork
+//Peacebond (Season 16)
+//notes: (PvP): Iron Reach with: Poly/Small/Cork/Fluted - Accurized - Perpet/Killing and Stability Masterwork OR Swashbuckler with Hammer/Small/Cork - Accurized - Killing/Pepet and Range Masterwork
 dimwishlist:item=829330711&perks=1392496348,3142289711,1428297954,591790007 
 dimwishlist:item=829330711&perks=1392496348,3142289711,1428297954,4082225868 
 dimwishlist:item=829330711&perks=1392496348,3142289711,2450788523,591790007 
@@ -1144,7 +1143,7 @@ dimwishlist:item=829330711&perks=3250034553,3142289711,2450788523,4082225868
 dimwishlist:item=829330711&perks=3250034553,106909392,1428297954,591790007 
 dimwishlist:item=829330711&perks=3250034553,106909392,1428297954,4082225868 
 dimwishlist:item=829330711&perks=3250034553,106909392,2450788523,591790007 
-dimwishlist:item=829330711&perks=3250034553,106909392,2450788523,4082225868 
+dimwishlist:item=829330711&perks=3250034553,106909392,2450788523,4082225868
 //notes: (PvE): Fluted/Smallbore - Tactical Mag - Subsistence - Headstone; Masterwork: Reload
 dimwishlist:item=829330711&perks=1840239774,106909392,1820235745,124408337
 dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,124408337
