@@ -1,4 +1,12 @@
 <-----------------------------------------------------------Episode: Revenant----------------------------------------------------------->
+//False Idols (Season 24)
+//notes: (ADDCLEAR): Enduring Blade - Balanced Guard - Incandescent - Chain Reaction; Masterwork: Impact
+dimwishlist:item=4207120603&perks=1261178282,52780822,4293542123,2396489472 
+//notes: (DPS): Jagged Edge - Swordmaster's Guard - Relentless Strikes - Bait and Switch; Masterwork: Impact
+dimwishlist:item=4207120603&perks=3666208348,269888150,1749209109,3078487919
+//notes: Junk
+dimwishlist:item=-4207120603
+
 //Lost Signal (Season 24)
 //notes: (PvE): GOD ROLL!!! Hard Launch - High-Velocity Rounds - Auto-Loading Holster - Vorpal Weapon; Masterwork: Handling (Can reach 100 BR and Velo with the Aerodynamics mod)
 dimwishlist:item=1197771438&perks=981914802,2822142346,3300816228,1546637391 
