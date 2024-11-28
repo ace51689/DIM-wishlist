@@ -2696,7 +2696,7 @@ dimwishlist:item=1851777734&perks=3798852852,2822142346,3977735242,3194351027
 dimwishlist:item=1851777734&perks=3798852852,2822142346,3523296417,3194351027
 //notes: (PvE DPS): Linear Compensator - Impact Casing - Reconstruction - Bipod; Masterwork: Blast Radius
 dimwishlist:item=1851777734&perks=1441682018,3796465595,461595545,2282937672
-//notes: (PvE Add Clear): Linear Compensator - High-Velo - Incandescent - Frenzy; Masterwork: Blast Radius
+//notes: (ADDCLEAR): Linear Compensator - High-Velocity Rounds - Incandescent - Frenzy; Masterwork: Blast Radius
 dimwishlist:item=1851777734&perks=1441682018,2822142346,4293542123,4104185692
 //notes: Junk
 dimwishlist:item=-1851777734
