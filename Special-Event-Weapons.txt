@@ -1,4 +1,16 @@
 <----------------------------------------------Guardian Games---------------------------------------------->
+//Hullabaloo (Season 23)
+//notes: (ADDCLEAR): *RETIRED* Quick/Liner - High-Velocity Rounds - Auto/Envy/Volt - Chain Reaction; Masterwork: Velocity or Blast Radius
+dimwishlist:item=657927352&perks=3525010810,2822142346,3300816228,2396489472 
+dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,2396489472 
+dimwishlist:item=657927352&perks=3525010810,2822142346,2173046394,2396489472 
+dimwishlist:item=657927352&perks=1441682018,2822142346,3300816228,2396489472 
+dimwishlist:item=657927352&perks=1441682018,2822142346,968510818,2396489472 
+dimwishlist:item=657927352&perks=1441682018,2822142346,2173046394,2396489472 
+//notes: Junk
+dimwishlist:item=-657927352
+
+
 // The Title (S20)
 //notes: (PvP): Arrowhead Brake - Ricochet Rounds - Dynamic Sway/Perpetual - Rangefinder; Masterwork: Stability or Range
 dimwishlist:item=3559361670&perks=839105230,1885400500,1359896290,2846385770
