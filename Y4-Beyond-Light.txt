@@ -1,4 +1,4 @@
-<-------------------------------------------------------------------Beyond Light / Season of the Hunt (S12)------------------------------------------------------------------>
+<-------------------------------------------------------------------Beyond Light / Hunt / Chosen------------------------------------------------------------------>
 // Biting Winds
 //notes: (PvP): Elastic/Flexible - Fiberglass Arrow Shaft - Moving Target - Explosive Head/Snapshot; Masterwork: Draw Time or Accuracy
 dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,3365897133
@@ -388,8 +388,6 @@ dimwishlist:item=-3856705927
 dimwishlist:item=4184808992&perks=3400784728,1546637391
 
 
-
-<---------------------------------------------------------------------Season of The Chosen (S13)--------------------------------------------------------------------->
 // Waking Vigil
 //notes: (PvP): SteadyHand/Fastdraw - Ricochet/High-Caliber - Rangefinder - Opening Shot/Snapshot; Masterwork: Range or Stability
 dimwishlist:item=334171687&perks=1926090095,1885400500,2846385770,47981717
