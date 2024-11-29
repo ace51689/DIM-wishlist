@@ -1,5 +1,5 @@
 <------------------------------------------------------------------------------ Episode: Revenant (S25) ------------------------------------------------------------------------------>
-// Wicked Sister (PLACEHOLDER)
+// Bygones (PLACEHOLDER)
 
 
 // Plug One.1 (PLACEHOLDER)
@@ -8,11 +8,14 @@
 // Rake Angle (PLACEHOLDER)
 
 
+// Wicked Sister (PLACEHOLDER)
+
+
 <------------------------------------------------------------------------ Final Shape / Episode: Echoes (S24) ------------------------------------------------------------------------>
-// Undercurrent (PLACEHOLDER)
+// Hush (PLACEHOLDER)
 
 
-// Uzume RR4 (PLACEHOLDER)
+// Pre Astyanax IV (PLACEHOLDER)
 
 
 // Scintillation (PLACEHOLDER)
@@ -21,13 +24,19 @@
 // Shadow Price (PLACEHOLDER)
 
 
+// Undercurrent (PLACEHOLDER)
+
+
+// Uzume RR4 (PLACEHOLDER)
+
+
 // Warden's Law (PLACEHOLDER)
 
 
-// Pre Astyanax IV (PLACEHOLDER)
-
-
 <--------------------------------------------------------------------- Season of the Wish / Into The Light (S23) --------------------------------------------------------------------->
+// Breakneck (PLACEHOLDER)
+
+
 // Double-Edged Answer (PLACEHOLDER)
 
 
@@ -41,18 +50,27 @@
 // Luna Regolith III (PLACEHOLDER)
 
 
+// Qua Xaphan V (PLACEHOLDER)
+
+
 <------------------------------------------------------------------------------ Season of the Deep (S21) ----------------------------------------------------------------------------->
-// Positive Outlook (PLACEHOLDER)
+// BrayTech Osprey (PLACEHOLDER)
+
+
+// Laser Painter (PLACEHOLDER)
 
 
 // Loaded Question (PLACEHOLDER)
 
 
-// BrayTech Osprey (PLACEHOLDER)
+// Positive Outlook (PLACEHOLDER)
 
 
 <------------------------------------------------------------------------ Lightfall / Season of Defiance (S20) ----------------------------------------------------------------------->
-// Nameless Midnight (PLACEHOLDER)
+// Buzzard (PLACEHOLDER)
+
+
+// Hung Jury SR4 (PLACEHOLDER)
 
 
 // The Militia's Birthright (PLACEHOLDER)
@@ -61,19 +79,22 @@
 // Mindbender's Ambition (PLACEHOLDER)
 
 
-// Hung Jury SR4 (PLACEHOLDER)
-
-
-// Wendigo GL3 (PLACEHOLDER)
-
-
-// Buzzard (PLACEHOLDER)
+// Nameless Midnight (PLACEHOLDER)
 
 
 // The Swarm (PLACEHOLDER)
 
 
+// Trust (PLACEHOLDER)
+
+
+// Wendigo GL3 (PLACEHOLDER)
+
+
 <---------------------------------------------------------------------------- Season of the Seraph (S19) ----------------------------------------------------------------------------->
+// Albruna-D (PLACEHOLDER)
+
+
 // Prolonged Engagement (PLACEHOLDER)
 
 
@@ -81,27 +102,36 @@
 // Pure Poetry (PLACEHOLDER)
 
 
+// Yesteryear (PLACEHOLDER)
+
+
 <---------------------------------------------------------------------------- Season of the Haunted (S17) ---------------------------------------------------------------------------->
-// Strident Whistle (PLACEHOLDER)
-
-
 // D.F.A. (PLACEHOLDER)
+
+
+// Dead Weight (PLACEHOLDER)
 
 
 // Horror's Least (PLACEHOLDER)
 
 
+// Strident Whistle (PLACEHOLDER)
+
+
 <---------------------------------------------------------------------- Witch Queen / Season of the Risen (S16) ---------------------------------------------------------------------->
-// Fortissimo-11 (PLACEHOLDER)
-
-
 // The Comedian (PLACEHOLDER)
 
 
-// The Hothead (PLACEHOLDER)
-
-
 // Duty Bound (PLACEHOLDER)
+
+
+// Fortissimo-11 (PLACEHOLDER)
+
+
+// Herod-C (PLACEHOLDER)
+
+
+// The Hothead (PLACEHOLDER)
 
 
 // Silicon Neuroma (PLACEHOLDER)
@@ -111,30 +141,53 @@
 // Punching Out (PLACEHOLDER)
 
 
+// Servant Leader (PLACEHOLDER)
+
+
 <---------------------------------------------------------------------------- Season of the Splicer (S14) ---------------------------------------------------------------------------->
+// Borrowed Time (PLACEHOLDER)
+
+
 // Empty Vessel (PLACEHOLDER)
 
 
 <---------------------------------------------------------------------------- Season of the Chosen (S13) ----------------------------------------------------------------------------->
+// Bottom Dollar (PLACEHOLDER)
+
+
 // Royal Entry (PLACEHOLDER)
 
 
 // The Third Axiom (PLACEHOLDER)
 
 
+// Trinary System (PLACEHOLDER)
+
+
 <---------------------------------------------------------------------- Beyond Light / Season of the Hunt (S12) ---------------------------------------------------------------------->
+// Crowd Pleaser (PLACEHOLDER)
+
+
 // Xenoclast (PLACEHOLDER)
 
 
 <----------------------------------------------------------------------------- Season of Arrivals (S11) ------------------------------------------------------------------------------>
-// Main Ingredient (PLACEHOLDER)
+// Bad Omens (PLACEHOLDER)
 
 
-// Outrageous Fortune (PLACEHOLDER)
+// Gnawing Huner (PLACEHOLDER)
 
 
 // The Last Dance (PLACEHOLDER)
 
+
+// Main Ingredient (PLACEHOLDER
+
+
+// Night Watch (PLACEHOLDER)
+
+
+// Outrageous Fortune (PLACEHOLDER)
 
 
 <--------------------------------------------------------------------Nightfall Exclusive Weapons-------------------------------------------------------------------->
