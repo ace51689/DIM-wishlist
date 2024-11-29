@@ -1,3 +1,142 @@
+<------------------------------------------------------------------------------ Episode: Revenant (S25) ------------------------------------------------------------------------------>
+// Wicked Sister (PLACEHOLDER)
+
+
+// Plug One.1 (PLACEHOLDER)
+
+
+// Rake Angle (PLACEHOLDER)
+
+
+<------------------------------------------------------------------------ Final Shape / Episode: Echoes (S24) ------------------------------------------------------------------------>
+// Undercurrent (PLACEHOLDER)
+
+
+// Uzume RR4 (PLACEHOLDER)
+
+
+// Scintillation (PLACEHOLDER)
+
+
+// Shadow Price (PLACEHOLDER)
+
+
+// Warden's Law (PLACEHOLDER)
+
+
+// Pre Astyanax IV (PLACEHOLDER)
+
+
+<--------------------------------------------------------------------- Season of the Wish / Into The Light (S23) --------------------------------------------------------------------->
+// Double-Edged Answer (PLACEHOLDER)
+
+
+// The Slammer (PLACEHOLDER)
+
+
+// Wild Style (PLACEHOLDER)
+
+
+<----------------------------------------------------------------------------- Season of the Witch (S22) ----------------------------------------------------------------------------->
+// Luna Regolith III (PLACEHOLDER)
+
+
+<------------------------------------------------------------------------------ Season of the Deep (S21) ----------------------------------------------------------------------------->
+// Positive Outlook (PLACEHOLDER)
+
+
+// Loaded Question (PLACEHOLDER)
+
+
+// BrayTech Osprey (PLACEHOLDER)
+
+
+<------------------------------------------------------------------------ Lightfall / Season of Defiance (S20) ----------------------------------------------------------------------->
+// Nameless Midnight (PLACEHOLDER)
+
+
+// The Militia's Birthright (PLACEHOLDER)
+
+
+// Mindbender's Ambition (PLACEHOLDER)
+
+
+// Hung Jury SR4 (PLACEHOLDER)
+
+
+// Wendigo GL3 (PLACEHOLDER)
+
+
+// Buzzard (PLACEHOLDER)
+
+
+// The Swarm (PLACEHOLDER)
+
+
+<---------------------------------------------------------------------------- Season of the Seraph (S19) ----------------------------------------------------------------------------->
+// Prolonged Engagement (PLACEHOLDER)
+
+
+<------------------------------------------------------------------------------ Season of Plunder (S18) ------------------------------------------------------------------------------>
+// Pure Poetry (PLACEHOLDER)
+
+
+<---------------------------------------------------------------------------- Season of the Haunted (S17) ---------------------------------------------------------------------------->
+// Strident Whistle (PLACEHOLDER)
+
+
+// D.F.A. (PLACEHOLDER)
+
+
+// Horror's Least (PLACEHOLDER)
+
+
+<---------------------------------------------------------------------- Witch Queen / Season of the Risen (S16) ---------------------------------------------------------------------->
+// Fortissimo-11 (PLACEHOLDER)
+
+
+// The Comedian (PLACEHOLDER)
+
+
+// The Hothead (PLACEHOLDER)
+
+
+// Duty Bound (PLACEHOLDER)
+
+
+// Silicon Neuroma (PLACEHOLDER)
+
+
+<-------------------------------------------------------------------- Season of the Lost / 30th Anniversary (S15) -------------------------------------------------------------------->
+// Punching Out (PLACEHOLDER)
+
+
+<---------------------------------------------------------------------------- Season of the Splicer (S14) ---------------------------------------------------------------------------->
+// Empty Vessel (PLACEHOLDER)
+
+
+<---------------------------------------------------------------------------- Season of the Chosen (S13) ----------------------------------------------------------------------------->
+// Royal Entry (PLACEHOLDER)
+
+
+// The Third Axiom (PLACEHOLDER)
+
+
+<---------------------------------------------------------------------- Beyond Light / Season of the Hunt (S12) ---------------------------------------------------------------------->
+// Xenoclast (PLACEHOLDER)
+
+
+<----------------------------------------------------------------------------- Season of Arrivals (S11) ------------------------------------------------------------------------------>
+// Main Ingredient (PLACEHOLDER)
+
+
+// Outrageous Fortune (PLACEHOLDER)
+
+
+// The Last Dance (PLACEHOLDER)
+
+
+
 <--------------------------------------------------------------------Nightfall Exclusive Weapons-------------------------------------------------------------------->
 // Hung Jury SR4 (S20)
 //notes: (PvP): Arrowhead/Fluted - Steady/Accurized - Rapid Hit/No Distractions - Box Breathing; Masterwork: Stability
