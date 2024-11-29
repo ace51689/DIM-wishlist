@@ -1,3 +1,4 @@
+############################# A DIM wishlist containing Vanguard Ops, Nightfall, and Gambit weapons dating back to Season of Arrivals (Season 11, Year 3) #############################
 <------------------------------------------------------------------------------ Episode: Revenant (S25) ------------------------------------------------------------------------------>
 // Bygones (PLACEHOLDER)
 
@@ -181,7 +182,7 @@
 // The Last Dance (PLACEHOLDER)
 
 
-// Main Ingredient (PLACEHOLDER
+// Main Ingredient (PLACEHOLDER)
 
 
 // Night Watch (PLACEHOLDER)
