@@ -1,27 +1,5 @@
-<-----------------------------------------------------------Episode: Revenant----------------------------------------------------------->
-//False Idols (Season 24)
-//notes: (ADDCLEAR): Enduring Blade - Balanced Guard - Incandescent - Chain Reaction; Masterwork: Impact
-dimwishlist:item=4207120603&perks=1261178282,52780822,4293542123,2396489472 
-//notes: (DPS): Jagged Edge - Swordmaster's Guard - Relentless Strikes - Bait and Switch; Masterwork: Impact
-dimwishlist:item=4207120603&perks=3666208348,269888150,1749209109,3078487919
-//notes: Junk
-dimwishlist:item=-4207120603
-
-//Lost Signal (Season 24)
-//notes: (PvE): GOD ROLL!!! Hard Launch - High-Velocity Rounds - Auto-Loading Holster - Vorpal Weapon; Masterwork: Handling (Can reach 100 BR and Velo with the Aerodynamics mod)
-dimwishlist:item=1197771438&perks=981914802,2822142346,3300816228,1546637391 
-//notes: (PvP): Handling/Velocity (Quick/Smart and High-Velocity Rounds) with Quickdraw/Auto and High Ground/Demo; Masterwork: Handling or Velocity
-dimwishlist:item=1197771438&perks=3525010810,2822142346,706527188,2319119708 
-dimwishlist:item=1197771438&perks=3525010810,2822142346,706527188,3523296417 
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,2319119708 
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,3523296417 
-dimwishlist:item=1197771438&perks=3798852852,2822142346,706527188,2319119708 
-dimwishlist:item=1197771438&perks=3798852852,2822142346,706527188,3523296417 
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,2319119708 
-dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,3523296417
-//notes: Junk
-dimwishlist:item=-1197771438
-
+######################################## A DIM wishlist containing weapons from Year 7 of Destiny 2 (Final Shape / Echoes / Revenant / Heresy) #######################################
+<------------------------------------------------------------------------------ Episode: Revenant (S25) ------------------------------------------------------------------------------>
 //VS Chill Inhibitor (Season 25)
 //notes: (PvP): I'm not sure what's good in PVP for heavy GLs. I figured this could be a start.
 dimwishlist:item=1762785662&perks=981914802,3301904089,3523296417,2396489472 
@@ -224,7 +202,32 @@ dimwishlist:item=-2823644677
 
 
 
-<------------------------------------------------------------Episode: Echoes------------------------------------------------------------>
+<------------------------------------------------------------------------ Final Shape / Episode: Echoes (S24) ------------------------------------------------------------------------>
+//False Idols (Season 24)
+//notes: (ADDCLEAR): Enduring Blade - Balanced Guard - Incandescent - Chain Reaction; Masterwork: Impact
+dimwishlist:item=4207120603&perks=1261178282,52780822,4293542123,2396489472 
+//notes: (DPS): Jagged Edge - Swordmaster's Guard - Relentless Strikes - Bait and Switch; Masterwork: Impact
+dimwishlist:item=4207120603&perks=3666208348,269888150,1749209109,3078487919
+//notes: Junk
+dimwishlist:item=-4207120603
+
+
+//Lost Signal (Season 24)
+//notes: (PvE): GOD ROLL!!! Hard Launch - High-Velocity Rounds - Auto-Loading Holster - Vorpal Weapon; Masterwork: Handling (Can reach 100 BR and Velo with the Aerodynamics mod)
+dimwishlist:item=1197771438&perks=981914802,2822142346,3300816228,1546637391 
+//notes: (PvP): Handling/Velocity (Quick/Smart and High-Velocity Rounds) with Quickdraw/Auto and High Ground/Demo; Masterwork: Handling or Velocity
+dimwishlist:item=1197771438&perks=3525010810,2822142346,706527188,2319119708 
+dimwishlist:item=1197771438&perks=3525010810,2822142346,706527188,3523296417 
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,2319119708 
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,3523296417 
+dimwishlist:item=1197771438&perks=3798852852,2822142346,706527188,2319119708 
+dimwishlist:item=1197771438&perks=3798852852,2822142346,706527188,3523296417 
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,2319119708 
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3300816228,3523296417
+//notes: Junk
+dimwishlist:item=-1197771438
+
+
 //Hush (Season 24)
 //notes: (PvP): Elastic/Flexible - Fiberglass/Straight - Tempo/Opening/Impulse - Explosive/Incandescent/Gambit; Masterwork: Draw Time or Accuracy
 dimwishlist:item=3962575203&perks=2801223209,3429800428,201365942,3365897133 
