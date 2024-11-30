@@ -1,18 +1,87 @@
+############################## A DIM wishlist containing Crucible, Iron Banner, and Trials weapons dating back to Season of Arrivals (Season 11, Year 3) ##############################
 <------------------------------------------------------------------------------ Episode: Revenant (S25) ------------------------------------------------------------------------------>
+// Anonymous Autumn
+// Archon's Thunder
+// Tinasha's Mastery
+// Tomorrow's Answer
+// Yesterday's Question
 <------------------------------------------------------------------------ Final Shape / Episode: Echoes (S24) ------------------------------------------------------------------------>
+// Aisha's Care
+// Better Devils
+// Claws of The Wolf
+// Crimil's Dagger
+// Eye of Sol
+// Guiding Sight
+// Incisor
+// Lethal Abundance
+// Point of The Stag
+// Riiswalker
+// The Riposte
+// Shayura's Wrath
 <--------------------------------------------------------------------- Season of the Wish / Into The Light (S23) --------------------------------------------------------------------->
+// Belisarius-D
+// Multimach CCX
+// The Prophet
+// Retrofuturist
+// The Summoner
+// Tusk of The Boar
 <----------------------------------------------------------------------------- Season of the Witch (S22) ----------------------------------------------------------------------------->
+// Cataphract GL3
+// Igneous Hammer
+// Unending Tempest
 <------------------------------------------------------------------------------ Season of the Deep (S21) ----------------------------------------------------------------------------->
+// Mercurial Overreach
+// The Messenger
+// Pressurized Precision
+// Randy's Throwing Knife
+// Swarm of The Raven
+// Unexpected Resurgence
 <------------------------------------------------------------------------ Lightfall / Season of Defiance (S20) ----------------------------------------------------------------------->
+// Allied Demand
+// Astral Horizon
+// Autumn Wind
+// Bite of The Fox
+// Dark Decider
+// Exalted Truth
+// Gunnora's Axe
+// The Hero's Burden
+// The Immortal
+// The Inquisitor
+// Jorum's Claw
+// Roar of The Bear
+// Unwavering Duty
+// Whistler's Whim
+// The Wizened Rebuke
 <---------------------------------------------------------------------------- Season of the Seraph (S19) ----------------------------------------------------------------------------->
+// Blowout
+// Rose
 <------------------------------------------------------------------------------ Season of Plunder (S18) ------------------------------------------------------------------------------>
+// Out of Bounds
 <---------------------------------------------------------------------------- Season of the Haunted (S17) ---------------------------------------------------------------------------->
+// Forgiveness
+// Riptide
 <---------------------------------------------------------------------- Witch Queen / Season of the Risen (S16) ---------------------------------------------------------------------->
+// Aisha's Embrace
+// Crisis Inverted
+// Forge's Pledge
+// Frontier's Cry
+// Occluded Finality
+// Peacebond
+// Razor's Edge
+// Reed's Regret
 <-------------------------------------------------------------------- Season of the Lost / 30th Anniversary (S15) -------------------------------------------------------------------->
+// Sorrow's Verse
 <---------------------------------------------------------------------------- Season of the Splicer (S14) ---------------------------------------------------------------------------->
+// Survivor's Epitaph
 <---------------------------------------------------------------------------- Season of the Chosen (S13) ----------------------------------------------------------------------------->
+// Frozen Orbit
+// The Keening
 <---------------------------------------------------------------------- Beyond Light / Season of the Hunt (S12) ---------------------------------------------------------------------->
+// Stars in Shadow
 <----------------------------------------------------------------------------- Season of Arrivals (S11) ------------------------------------------------------------------------------>
+// Last Perdition
+// Steel Sybil Z-14
+// Wishbringer
 
 
 
