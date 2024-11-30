@@ -1,4 +1,5 @@
-<----------------------------------------------------------------------Season of Arrivals (S11)---------------------------------------------------------------------->
+################################################### A DIM wishlist containing weapons from Year 3 of Destiny 2 (Worthy / Arrivals) ####################################################
+<----------------------------------------------------------------------------- Season of Arrivals (S11) ------------------------------------------------------------------------------>
 // Arsenic Bite-4b
 //notes: (PvP): Elastic/Flexible - Fiberglass/Straight - Moving Target/Snapshot - Archer's Tempo/Explosive; Masterwork: Draw Time or Accuracy
 dimwishlist:item=720351795&perks=2801223209,3429800428,588594999,201365942
@@ -459,7 +460,7 @@ dimwishlist:item=3616586446&perks=3250034553,3142289711,3161816588,47981717
 dimwishlist:item=-3616586446
 
 
-<----------------------------------------------------------------------Season of the Worthy (S10)---------------------------------------------------------------------->
+<---------------------------------------------------------------------------- Season of the Worthy (S10) ----------------------------------------------------------------------------->
 // Seventh Seraph Carbine
 //notes: (PvP): Fluted/Arrowhead - High-Caliber/Ricochet - Slideshot/Threat Detector - Moving Target/Rangefinder; Masterwork: Stability or Handling
 dimwishlist:item=1561006927&perks=1840239774,1561002382,3161816588,588594999
