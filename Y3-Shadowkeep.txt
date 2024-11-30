@@ -45,30 +45,6 @@ dimwishlist:item=3745990145&perks=893526895,3142289711,280464955,588594999
 dimwishlist:item=-3745990145
 
 
-// Steel Sybil Z-14
-//notes: (PvP): Jagged/Honed - Swordmaster's/Burst - Tireless Blade - Assassin's Blade (S15)
-dimwishlist:item=4230993599&perks=3666208348,269888150,2590710093,354401740
-dimwishlist:item=4230993599&perks=3666208348,3625355092,2590710093,354401740
-dimwishlist:item=4230993599&perks=2827049491,269888150,2590710093,354401740
-dimwishlist:item=4230993599&perks=2827049491,3625355092,2590710093,354401740
-//notes: Junk
-dimwishlist:item=-4230993599
-
-
-// Wishbringer
-//notes: (PvP): Corkscrew/Shroud/Smallbore - Accurized Rounds - Slideshot - Opening Shot/Moving Target; Masterwork: Handling or Range
-dimwishlist:item=3356526253&perks=4090651448,3142289711,3161816588,47981717
-dimwishlist:item=3356526253&perks=4090651448,3142289711,3161816588,588594999
-dimwishlist:item=3356526253&perks=1300023272,3142289711,3161816588,47981717
-dimwishlist:item=3356526253&perks=1300023272,3142289711,3161816588,588594999
-dimwishlist:item=3356526253&perks=1482024992,3142289711,3161816588,47981717
-dimwishlist:item=3356526253&perks=1482024992,3142289711,3161816588,588594999
-dimwishlist:item=3356526253&perks=1047830412,3142289711,3161816588,47981717
-dimwishlist:item=3356526253&perks=1047830412,3142289711,3161816588,588594999
-//notes: Junk
-dimwishlist:item=-3356526253
-
-
 // Lonesome
 //notes: (PvP): Fluted/Smallbore - High-Caliber/Ricochet - Rapid Hit - Kill Clip/Demo/Opening Shot; Masterwork: Stability or Handling
 dimwishlist:item=2199171672&perks=1840239774,1561002382,247725512,1015611457
@@ -97,13 +73,6 @@ dimwishlist:item=2199171672&perks=4090651448,1885400500,247725512,47981717
 dimwishlist:item=2199171672&perks=4090651448,1885400500,247725512,2458213969
 //notes: Junk
 dimwishlist:item=-2199171672
-
-
-// Last Perdition
-//notes: (PvP): SPO-57 Front - Steady Rounds - Rangefinder - Headseeker; Masterwork: Handling or Range
-dimwishlist:item=188882152&perks=3151536501,3177308360,2846385770,460017080
-//notes: Junk
-dimwishlist:item=-188882152
 
 
 // False Promises
