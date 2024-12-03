@@ -1,50 +1,5 @@
 ######################################## A DIM wishlist containing weapons from Year 7 of Destiny 2 (Final Shape / Echoes / Revenant / Heresy) ########################################
 <------------------------------------------------------------------------------ Episode: Revenant (S25) ------------------------------------------------------------------------------>
-//VS Chill Inhibitor (Season 25)
-//notes: (PvP): I'm not sure what's good in PVP for heavy GLs. I figured this could be a start.
-dimwishlist:item=1762785662&perks=981914802,3301904089,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=981914802,2822142346,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=981914802,1380253176,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=3525010810,3301904089,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=3525010810,2822142346,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=3525010810,1380253176,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=3798852852,3301904089,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=3798852852,2822142346,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=3798852852,1380253176,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=1441682018,3301904089,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=1441682018,2822142346,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=1441682018,1380253176,3523296417,2396489472
-//notes: (PvE): Hard/Quick/Smart - Spike/Alloy - Envious/Demo - Bait/Chain; Masterwork: Velocity or Reload
-dimwishlist:item=1762785662&perks=981914802,3301904089,3987942396,3078487919 
-dimwishlist:item=1762785662&perks=981914802,3301904089,3987942396,2396489472 
-dimwishlist:item=1762785662&perks=981914802,3301904089,3523296417,3078487919 
-dimwishlist:item=1762785662&perks=981914802,3301904089,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=981914802,2985827016,3987942396,3078487919 
-dimwishlist:item=1762785662&perks=981914802,2985827016,3987942396,2396489472 
-dimwishlist:item=1762785662&perks=981914802,2985827016,3523296417,3078487919 
-dimwishlist:item=1762785662&perks=981914802,2985827016,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3078487919 
-dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,2396489472 
-dimwishlist:item=1762785662&perks=3525010810,3301904089,3523296417,3078487919 
-dimwishlist:item=1762785662&perks=3525010810,3301904089,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=3525010810,2985827016,3987942396,3078487919 
-dimwishlist:item=1762785662&perks=3525010810,2985827016,3987942396,2396489472 
-dimwishlist:item=1762785662&perks=3525010810,2985827016,3523296417,3078487919 
-dimwishlist:item=1762785662&perks=3525010810,2985827016,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=3798852852,3301904089,3987942396,3078487919 
-dimwishlist:item=1762785662&perks=3798852852,3301904089,3987942396,2396489472 
-dimwishlist:item=1762785662&perks=3798852852,3301904089,3523296417,3078487919 
-dimwishlist:item=1762785662&perks=3798852852,3301904089,3523296417,2396489472 
-dimwishlist:item=1762785662&perks=3798852852,2985827016,3987942396,3078487919 
-dimwishlist:item=1762785662&perks=3798852852,2985827016,3987942396,2396489472 
-dimwishlist:item=1762785662&perks=3798852852,2985827016,3523296417,3078487919 
-dimwishlist:item=1762785662&perks=3798852852,2985827016,3523296417,2396489472 
-//notes: Free version from Banshee. Near god roll. Good enough for now
-dimwishlist:item=1762785662&perks=3809316345,3301904089,3987942396,3078487919
-//notes: Junk
-dimwishlist:item=-1762785662
-
-
 //Chroma Rush (Season 25)
 //notes: (PvP): Max Range (Base Recoil OK) with DSR/Killing/Heating/Tunnel and Kill Clip/Rampage/Tap
 dimwishlist:item=2598420927&perks=3250034553,3142289711,1359896290,1015611457 
@@ -203,6 +158,26 @@ dimwishlist:item=-2823644677
 
 
 <------------------------------------------------------------------------ Final Shape / Episode: Echoes (S24) ------------------------------------------------------------------------>
+//Ergo Sum (Season 24)
+//notes: (PvE): GOD ROLL!!! The Perfect Fifth - Jagged Blade - Swordmaster's Guard - Caster Frame 
+dimwishlist:item=1681583613&perks=3666208348,269888150,519046634,1522566605
+//notes: (PvE): Pack Hunter - Jagged - Swordmaster's - Light/Wave Frame 
+dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,1959135343
+dimwishlist:item=1681583613&perks=3666208348,269888150,289811733,1959135343
+dimwishlist:item=1681583613&perks=3666208348,269888150,1726251414,1959135343
+//notes: (PvE): Arc Conductor - Hungry/Tempered - Swordmaster's - Lightweight Frame
+dimwishlist:item=1681583613&perks=436053704,269888150,2753228730,3949068808
+dimwishlist:item=1681583613&perks=938542991,269888150,2753228730,3949068808
+//notes: (PvE): Unplanned Repreve - Hungry/Tempered - Swordmaster's - Lightweight Frame
+dimwishlist:item=1681583613&perks=436053704,269888150,2753228730,1327961177
+dimwishlist:item=1681583613&perks=938542991,269888150,2753228730,1327961177
+//notes: (PvE): Sacred Flame - Hungry/Tempered - Swordmaster's - Lightweight Frame
+dimwishlist:item=1681583613&perks=436053704,269888150,2753228730,3034060702
+dimwishlist:item=1681583613&perks=938542991,269888150,2753228730,3034060702
+//notes: Junk
+dimwishlist:item=-1681583613
+
+
 //False Idols (Season 24)
 //notes: (ADDCLEAR): Enduring Blade - Balanced Guard - Incandescent - Chain Reaction; Masterwork: Impact
 dimwishlist:item=4207120603&perks=1261178282,52780822,4293542123,2396489472 
@@ -1665,26 +1640,6 @@ dimwishlist:item=2450049485&perks=1840239774,2680121939,2284787283,1771339417
 //notes: (PvP): Ignore for PvP
 //notes: Junk
 dimwishlist:item=-2450049485
-
-
-//Ergo Sum (Season 24)
-//notes: (PvE): GOD ROLL!!! The Perfect Fifth - Jagged Blade - Swordmaster's Guard - Caster Frame 
-dimwishlist:item=1681583613&perks=3666208348,269888150,519046634,1522566605
-//notes: (PvE): Pack Hunter - Jagged - Swordmaster's - Light/Wave Frame 
-dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,1959135343
-dimwishlist:item=1681583613&perks=3666208348,269888150,289811733,1959135343
-dimwishlist:item=1681583613&perks=3666208348,269888150,1726251414,1959135343
-//notes: (PvE): Arc Conductor - Hungry/Tempered - Swordmaster's - Lightweight Frame
-dimwishlist:item=1681583613&perks=436053704,269888150,2753228730,3949068808
-dimwishlist:item=1681583613&perks=938542991,269888150,2753228730,3949068808
-//notes: (PvE): Unplanned Repreve - Hungry/Tempered - Swordmaster's - Lightweight Frame
-dimwishlist:item=1681583613&perks=436053704,269888150,2753228730,1327961177
-dimwishlist:item=1681583613&perks=938542991,269888150,2753228730,1327961177
-//notes: (PvE): Sacred Flame - Hungry/Tempered - Swordmaster's - Lightweight Frame
-dimwishlist:item=1681583613&perks=436053704,269888150,2753228730,3034060702
-dimwishlist:item=1681583613&perks=938542991,269888150,2753228730,3034060702
-//notes: Junk
-dimwishlist:item=-1681583613
 
 
 //Pro Memoria (Season 24)
