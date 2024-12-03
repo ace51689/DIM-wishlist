@@ -63,6 +63,12 @@ dimwishlist:item=2598420927&perks=839105230,106909392,1820235745,3891536761
 dimwishlist:item=-2598420927
 
 
+// Fair Judgment
+// Neoptolemus II
+// Ignition Code
+// Liturgy
+
+
 //Exuviae (Season 25)
 //notes: (PvP): (Early Impressions): Stability w/o nerfing Range OR push Range/Handling with Keep/Lone/Encore/Pain and Precision/Explosive
 dimwishlist:item=2823644677&perks=1482024992,3177308360,3619207468,555281244 
@@ -155,6 +161,19 @@ dimwishlist:item=2823644677&perks=1482024992,106909392,1955165503,124408337
 //notes: Junk
 dimwishlist:item=-2823644677
 
+
+// Live Fire
+// Red Tape
+// Gridskipper
+// Vantage Point
+// Legato-11
+// Scavenger's Fate
+// Sojourner's Tale
+// Insurmountable
+// Sovereignty
+// Veleda-F
+// Bitter/Sweet
+// Heretic's Fervor
 
 
 <------------------------------------------------------------------------ Final Shape / Episode: Echoes (S24) ------------------------------------------------------------------------>
