@@ -2,6 +2,7 @@
 <------------------------------------------------------------------------------ Episode: Revenant (S25) ------------------------------------------------------------------------------>
 // Anonymous Autumn
 // Archon's Thunder
+// Deadlock
 
 
 // Tinasha's Mastery (Season 25)
@@ -47,7 +48,9 @@ dimwishlist:item=-480368036
 
 
 // Tomorrow's Answer
+// Tomorrow's Answer (Adept)
 // Yesterday's Question
+// Yesterday's Question (Adept)
 <------------------------------------------------------------------------ Final Shape / Episode: Echoes (S24) ------------------------------------------------------------------------>
 // Aisha's Care
 // Better Devils
