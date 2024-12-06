@@ -401,14 +401,16 @@ dimwishlist:item=-3211624072
 // The Prophet
 
 
-// Retrofuturist
-//notes:PvP- Small/Shroud/Cork - Accurized/Assault - Slick/Quick - Snap/Vorpal; Masterwork: Range
-dimwishlist:item=1612781792&perks=,1821614984,957782887
-dimwishlist:item=1612781792&perks=,1821614984,1546637391
-dimwishlist:item=1612781792&perks=,706527188,957782887
-dimwishlist:item=1612781792&perks=,706527188,1546637391
-dimwishlist:item=1612781792&perks=,1866048759,957782887
-dimwishlist:item=1612781792&perks=,1866048759,1546637391
+// Retrofuturist (Season 23)
+//notes: (PvP): Range and Slick/Quickdraw with Snapshot. That's pretty much it.
+dimwishlist:item=1612781792&perks=1332244541,3142289711,1821614984,957782887 
+dimwishlist:item=1612781792&perks=1332244541,3142289711,706527188,957782887 
+dimwishlist:item=1612781792&perks=1482024992,3142289711,1821614984,957782887 
+dimwishlist:item=1612781792&perks=1482024992,3142289711,706527188,957782887 
+dimwishlist:item=1612781792&perks=1300023272,3142289711,1821614984,957782887 
+dimwishlist:item=1612781792&perks=1300023272,3142289711,706527188,957782887 
+dimwishlist:item=1612781792&perks=4090651448,3142289711,1821614984,957782887 
+dimwishlist:item=1612781792&perks=4090651448,3142289711,706527188,957782887 
 //notes:PvE- Shroud/Cork/Small - Assault/Appended/Tactical - Auto/Feeding - Vorpal/Destabilizing; Masterwork: Reload
 dimwishlist:item=1612781792&perks=,3300816228,1546637391
 dimwishlist:item=1612781792&perks=,3300816228,2048641572
