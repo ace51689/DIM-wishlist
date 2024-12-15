@@ -644,6 +644,11 @@ dimwishlist:item=-2130875369
 
 
 <------------------------------------------------------------------------ Final Shape / Episode: Echoes (S24) ------------------------------------------------------------------------>
+// Adverse Possession IX (Season 24)
+//notes: Junk
+dimwishlist:item=-1890332078
+
+
 //Ergo Sum (Season 24)
 //notes: (PvE): GOD ROLL!!! The Perfect Fifth - Jagged Blade - Swordmaster's Guard - Caster Frame 
 dimwishlist:item=1681583613&perks=3666208348,269888150,519046634,1522566605
