@@ -1621,7 +1621,7 @@ dimwishlist:item=-1183116657
 
 
 // Albedo Wing (Season 25)
-// Minstral Lift (Season 25)
+// Mistral Lift (Season 25)
 // Avalanche (Season 25)
 // Zephyr (Season 25)
 
