@@ -1508,6 +1508,11 @@ dimwishlist:item=4176873718&perks=2617553311,1171887445,744217850
 dimwishlist:item=-1890332078
 
 
+// Veiled Threat (Season 24)
+//notes: Junk
+dimwishlist:item=-3685470415    
+
+
 //Ergo Sum (Season 24)
 //notes: (PvE): GOD ROLL!!! The Perfect Fifth - Jagged Blade - Swordmaster's Guard - Caster Frame 
 dimwishlist:item=1681583613&perks=3666208348,269888150,519046634,1522566605
