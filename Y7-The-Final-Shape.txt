@@ -1497,6 +1497,10 @@ dimwishlist:item=-2130875369
 // Bitter/Sweet
 // Heretic's Fervor
 
+// Fair Judgment (Season 25)
+dimwishlist:item=4176873718&perks=1955165503,124408337,744217850
+dimwishlist:item=4176873718&perks=2617553311,1171887445,744217850
+
 
 <------------------------------------------------------------------------ Final Shape / Episode: Echoes (S24) ------------------------------------------------------------------------>
 // Adverse Possession IX (Season 24)
